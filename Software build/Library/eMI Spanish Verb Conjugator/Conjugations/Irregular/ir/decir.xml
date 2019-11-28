@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">decir</form>
+	<form type="gerund">diciendo</form>
+	<form type="past-participle">dicho</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">digo</conjugation>
+			<conjugation number="singular" person="2">dices</conjugation>
+			<conjugation number="singular" person="3">dice</conjugation>
+			<conjugation number="plural" person="3">dicen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">dije</conjugation>
+			<conjugation number="singular" person="2">dijiste</conjugation>
+			<conjugation number="singular" person="3">dijo</conjugation>
+			<conjugation number="plural" person="1">dijimos</conjugation>
+			<conjugation number="plural" person="2">dijisteis</conjugation>
+			<conjugation number="plural" person="3">dijeron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">diré</conjugation>
+			<conjugation number="singular" person="2">dirás</conjugation>
+			<conjugation number="singular" person="3">dirá</conjugation>
+			<conjugation number="plural" person="1">diremos</conjugation>
+			<conjugation number="plural" person="2">diréis</conjugation>
+			<conjugation number="plural" person="3">dirán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">diga</conjugation>
+			<conjugation number="singular" person="2">digas</conjugation>
+			<conjugation number="singular" person="3">diga</conjugation>
+			<conjugation number="plural" person="1">digamos</conjugation>
+			<conjugation number="plural" person="2">digáis</conjugation>
+			<conjugation number="plural" person="3">digan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">dijera</conjugation>
+			<conjugation number="singular" person="2">dijeras</conjugation>
+			<conjugation number="singular" person="3">dijera</conjugation>
+			<conjugation number="plural" person="1">dijéramos</conjugation>
+			<conjugation number="plural" person="2">dijerais</conjugation>
+			<conjugation number="plural" person="3">dijeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">dijese</conjugation>
+			<conjugation number="singular" person="2">dijeses</conjugation>
+			<conjugation number="singular" person="3">dijese</conjugation>
+			<conjugation number="plural" person="1">dijésemos</conjugation>
+			<conjugation number="plural" person="2">dijeseis</conjugation>
+			<conjugation number="plural" person="3">dijesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">dijere</conjugation>
+			<conjugation number="singular" person="2">dijeres</conjugation>
+			<conjugation number="singular" person="3">dijere</conjugation>
+			<conjugation number="plural" person="1">dijéremos</conjugation>
+			<conjugation number="plural" person="2">dijereis</conjugation>
+			<conjugation number="plural" person="3">dijeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">di</conjugation>
+			<conjugation number="singular" person="3">diga</conjugation>
+			<conjugation number="plural" person="1">digamos</conjugation>
+			<conjugation number="plural" person="3">digan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">digas</conjugation>
+			<conjugation number="singular" person="3">diga</conjugation>
+			<conjugation number="plural" person="1">digamos</conjugation>
+			<conjugation number="plural" person="2">digáis</conjugation>
+			<conjugation number="plural" person="3">digan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">diría</conjugation>
+			<conjugation number="singular" person="2">dirías</conjugation>
+			<conjugation number="singular" person="3">diría</conjugation>
+			<conjugation number="plural" person="1">diríamos</conjugation>
+			<conjugation number="plural" person="2">diríais</conjugation>
+			<conjugation number="plural" person="3">dirían</conjugation>
+		</tense>
+	</mood>
+</verb>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">suponer</form>
+	<form type="past-participle">supuesto</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">supongo</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">supuse</conjugation>
+			<conjugation number="singular" person="2">supusiste</conjugation>
+			<conjugation number="singular" person="3">supuso</conjugation>
+			<conjugation number="plural" person="1">supusimos</conjugation>
+			<conjugation number="plural" person="2">supusisteis</conjugation>
+			<conjugation number="plural" person="3">supusieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">supondré</conjugation>
+			<conjugation number="singular" person="2">supondrás</conjugation>
+			<conjugation number="singular" person="3">supondrá</conjugation>
+			<conjugation number="plural" person="1">supondremos</conjugation>
+			<conjugation number="plural" person="2">supondréis</conjugation>
+			<conjugation number="plural" person="3">supondrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">suponga</conjugation>
+			<conjugation number="singular" person="2">supongas</conjugation>
+			<conjugation number="singular" person="3">suponga</conjugation>
+			<conjugation number="plural" person="1">supongamos</conjugation>
+			<conjugation number="plural" person="2">supongáis</conjugation>
+			<conjugation number="plural" person="3">supongan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">supusiera</conjugation>
+			<conjugation number="singular" person="2">supusieras</conjugation>
+			<conjugation number="singular" person="3">supusiera</conjugation>
+			<conjugation number="plural" person="1">supusiéramos</conjugation>
+			<conjugation number="plural" person="2">supusierais</conjugation>
+			<conjugation number="plural" person="3">supusieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">supusiese</conjugation>
+			<conjugation number="singular" person="2">supusieses</conjugation>
+			<conjugation number="singular" person="3">supusiese</conjugation>
+			<conjugation number="plural" person="1">supusiésemos</conjugation>
+			<conjugation number="plural" person="2">supusieseis</conjugation>
+			<conjugation number="plural" person="3">supusiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">supusiere</conjugation>
+			<conjugation number="singular" person="2">supusieres</conjugation>
+			<conjugation number="singular" person="3">supusiere</conjugation>
+			<conjugation number="plural" person="1">supusiéremos</conjugation>
+			<conjugation number="plural" person="2">supusiereis</conjugation>
+			<conjugation number="plural" person="3">supusieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">supón</conjugation>
+			<conjugation number="singular" person="3">suponga</conjugation>
+			<conjugation number="plural" person="1">supongamos</conjugation>
+			<conjugation number="plural" person="3">supongan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">supongas</conjugation>
+			<conjugation number="singular" person="3">suponga</conjugation>
+			<conjugation number="plural" person="1">supongamos</conjugation>
+			<conjugation number="plural" person="2">supongáis</conjugation>
+			<conjugation number="plural" person="3">supongan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">supondría</conjugation>
+			<conjugation number="singular" person="2">supondrías</conjugation>
+			<conjugation number="singular" person="3">supondría</conjugation>
+			<conjugation number="plural" person="1">supondríamos</conjugation>
+			<conjugation number="plural" person="2">supondríais</conjugation>
+			<conjugation number="plural" person="3">supondrían</conjugation>
+		</tense>
+	</mood>
+</verb>

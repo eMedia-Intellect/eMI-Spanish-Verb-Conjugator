@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">hacer</form>
+	<form type="past-participle">hecho</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">hago</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">hice</conjugation>
+			<conjugation number="singular" person="2">hiciste</conjugation>
+			<conjugation number="singular" person="3">hizo</conjugation>
+			<conjugation number="plural" person="1">hicimos</conjugation>
+			<conjugation number="plural" person="2">hicisteis</conjugation>
+			<conjugation number="plural" person="3">hicieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">haré</conjugation>
+			<conjugation number="singular" person="2">harás</conjugation>
+			<conjugation number="singular" person="3">hará</conjugation>
+			<conjugation number="plural" person="1">haremos</conjugation>
+			<conjugation number="plural" person="2">haréis</conjugation>
+			<conjugation number="plural" person="3">harán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">haga</conjugation>
+			<conjugation number="singular" person="2">hagas</conjugation>
+			<conjugation number="singular" person="3">haga</conjugation>
+			<conjugation number="plural" person="1">hagamos</conjugation>
+			<conjugation number="plural" person="2">hagáis</conjugation>
+			<conjugation number="plural" person="3">hagan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">hiciera</conjugation>
+			<conjugation number="singular" person="2">hicieras</conjugation>
+			<conjugation number="singular" person="3">hiciera</conjugation>
+			<conjugation number="plural" person="1">hiciéramos</conjugation>
+			<conjugation number="plural" person="2">hicierais</conjugation>
+			<conjugation number="plural" person="3">hicieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">hiciese</conjugation>
+			<conjugation number="singular" person="2">hicieses</conjugation>
+			<conjugation number="singular" person="3">hiciese</conjugation>
+			<conjugation number="plural" person="1">hiciésemos</conjugation>
+			<conjugation number="plural" person="2">hicieseis</conjugation>
+			<conjugation number="plural" person="3">hiciesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">hiciere</conjugation>
+			<conjugation number="singular" person="2">hicieres</conjugation>
+			<conjugation number="singular" person="3">hiciere</conjugation>
+			<conjugation number="plural" person="1">hiciéremos</conjugation>
+			<conjugation number="plural" person="2">hiciereis</conjugation>
+			<conjugation number="plural" person="3">hicieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">hace, haz</conjugation>
+			<conjugation number="singular" person="3">haga</conjugation>
+			<conjugation number="plural" person="1">hagamos</conjugation>
+			<conjugation number="plural" person="3">hagan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">hagas</conjugation>
+			<conjugation number="singular" person="3">haga</conjugation>
+			<conjugation number="plural" person="1">hagamos</conjugation>
+			<conjugation number="plural" person="2">hagáis</conjugation>
+			<conjugation number="plural" person="3">hagan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">haría</conjugation>
+			<conjugation number="singular" person="2">harías</conjugation>
+			<conjugation number="singular" person="3">haría</conjugation>
+			<conjugation number="plural" person="1">haríamos</conjugation>
+			<conjugation number="plural" person="2">haríais</conjugation>
+			<conjugation number="plural" person="3">harían</conjugation>
+		</tense>
+	</mood>
+</verb>

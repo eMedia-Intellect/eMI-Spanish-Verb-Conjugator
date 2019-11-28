@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">corregir</form>
+	<form type="gerund">corrigiendo</form>
+	<form type="past-participle">corregido, correcto</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">corrijo</conjugation>
+			<conjugation number="singular" person="2">corriges</conjugation>
+			<conjugation number="singular" person="3">corrige</conjugation>
+			<conjugation number="plural" person="3">corrigen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">corrigió</conjugation>
+			<conjugation number="plural" person="3">corrigieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">corrija</conjugation>
+			<conjugation number="singular" person="2">corrijas</conjugation>
+			<conjugation number="singular" person="3">corrija</conjugation>
+			<conjugation number="plural" person="1">corrijamos</conjugation>
+			<conjugation number="plural" person="2">corrijáis</conjugation>
+			<conjugation number="plural" person="3">corrijan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">corrigiera</conjugation>
+			<conjugation number="singular" person="2">corrigieras</conjugation>
+			<conjugation number="singular" person="3">corrigiera</conjugation>
+			<conjugation number="plural" person="1">corrigiéramos</conjugation>
+			<conjugation number="plural" person="2">corrigierais</conjugation>
+			<conjugation number="plural" person="3">corrigieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">corrigiese</conjugation>
+			<conjugation number="singular" person="2">corrigieses</conjugation>
+			<conjugation number="singular" person="3">corrigiese</conjugation>
+			<conjugation number="plural" person="1">corrigiésemos</conjugation>
+			<conjugation number="plural" person="2">corrigieseis</conjugation>
+			<conjugation number="plural" person="3">corrigiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">corrigiere</conjugation>
+			<conjugation number="singular" person="2">corrigieres</conjugation>
+			<conjugation number="singular" person="3">corrigiere</conjugation>
+			<conjugation number="plural" person="1">corrigiéremos</conjugation>
+			<conjugation number="plural" person="2">corrigiereis</conjugation>
+			<conjugation number="plural" person="3">corrigieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">corrige</conjugation>
+			<conjugation number="singular" person="3">corrija</conjugation>
+			<conjugation number="plural" person="1">corrijamos</conjugation>
+			<conjugation number="plural" person="3">corrijan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">corrijas</conjugation>
+			<conjugation number="singular" person="3">corrija</conjugation>
+			<conjugation number="plural" person="1">corrijamos</conjugation>
+			<conjugation number="plural" person="2">corrijáis</conjugation>
+			<conjugation number="plural" person="3">corrijan</conjugation>
+		</tense>
+	</mood>
+</verb>

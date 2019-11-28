@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">obtener</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">obtengo</conjugation>
+			<conjugation number="singular" person="2">obtienes</conjugation>
+			<conjugation number="singular" person="3">obtiene</conjugation>
+			<conjugation number="plural" person="3">obtienen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">obtuve</conjugation>
+			<conjugation number="singular" person="2">obtuviste</conjugation>
+			<conjugation number="singular" person="3">obtuvo</conjugation>
+			<conjugation number="plural" person="1">obtuvimos</conjugation>
+			<conjugation number="plural" person="2">obtuvisteis</conjugation>
+			<conjugation number="plural" person="3">obtuvieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">obtendré</conjugation>
+			<conjugation number="singular" person="2">obtendrás</conjugation>
+			<conjugation number="singular" person="3">obtendrá</conjugation>
+			<conjugation number="plural" person="1">obtendremos</conjugation>
+			<conjugation number="plural" person="2">obtendréis</conjugation>
+			<conjugation number="plural" person="3">obtendrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">obtenga</conjugation>
+			<conjugation number="singular" person="2">obtengas</conjugation>
+			<conjugation number="singular" person="3">obtenga</conjugation>
+			<conjugation number="plural" person="1">obtengamos</conjugation>
+			<conjugation number="plural" person="2">obtengáis</conjugation>
+			<conjugation number="plural" person="3">obtengan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">obtuviera</conjugation>
+			<conjugation number="singular" person="2">obtuvieras</conjugation>
+			<conjugation number="singular" person="3">obtuviera</conjugation>
+			<conjugation number="plural" person="1">obtuviéramos</conjugation>
+			<conjugation number="plural" person="2">obtuvierais</conjugation>
+			<conjugation number="plural" person="3">obtuvieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">obtuviese</conjugation>
+			<conjugation number="singular" person="2">obtuvieses</conjugation>
+			<conjugation number="singular" person="3">obtuviese</conjugation>
+			<conjugation number="plural" person="1">obtuviésemos</conjugation>
+			<conjugation number="plural" person="2">obtuvieseis</conjugation>
+			<conjugation number="plural" person="3">obtuviesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">obtuviere</conjugation>
+			<conjugation number="singular" person="2">obtuvieres</conjugation>
+			<conjugation number="singular" person="3">obtuviere</conjugation>
+			<conjugation number="plural" person="1">obtuviéremos</conjugation>
+			<conjugation number="plural" person="2">obtuviereis</conjugation>
+			<conjugation number="plural" person="3">obtuvieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">obtén</conjugation>
+			<conjugation number="singular" person="3">obtenga</conjugation>
+			<conjugation number="plural" person="1">obtengamos</conjugation>
+			<conjugation number="plural" person="3">obtengan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">obtengas</conjugation>
+			<conjugation number="singular" person="3">obtenga</conjugation>
+			<conjugation number="plural" person="1">obtengamos</conjugation>
+			<conjugation number="plural" person="2">obtengáis</conjugation>
+			<conjugation number="plural" person="3">obtengan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">obtendría</conjugation>
+			<conjugation number="singular" person="2">obtendrías</conjugation>
+			<conjugation number="singular" person="3">obtendría</conjugation>
+			<conjugation number="plural" person="1">obtendríamos</conjugation>
+			<conjugation number="plural" person="2">obtendríais</conjugation>
+			<conjugation number="plural" person="3">obtendrían</conjugation>
+		</tense>
+	</mood>
+</verb>

@@ -1,0 +1,60 @@
+﻿<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<Window Title="eMI Spanish Verb Conjugator" WindowState="Maximized" x:Class="Emi.SpanishVerbConjugator.WindowsApplication.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<Grid Margin="4">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition/>
+			<RowDefinition Height="Auto"/>
+		</Grid.RowDefinitions>
+		<GroupBox Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Header="Filter verbs" Margin="4, 0, 4, 4" Padding="4">
+			<WrapPanel>
+				<Label Content="Inflection:" Margin="4"/>
+				<RadioButton Checked="InflectionGroupRadioButton_Checked" Content="regular" GroupName="InflectionGroup" Margin="4" VerticalAlignment="Center" x:Name="regularRadioButton"/>
+				<RadioButton Checked="InflectionGroupRadioButton_Checked" Content="irregular" GroupName="InflectionGroup" Margin="4" VerticalAlignment="Center" x:Name="irregularRadioButton"/>
+				<Label Content="Ending:" Margin="8, 4, 4, 4"/>
+				<RadioButton Checked="EndingGroupRadioButton_Checked" Content="ar" GroupName="EndingGroup" Margin="4" VerticalAlignment="Center" x:Name="arRadioButton"/>
+				<RadioButton Checked="EndingGroupRadioButton_Checked" Content="er" GroupName="EndingGroup" Margin="4" VerticalAlignment="Center" x:Name="erRadioButton"/>
+				<RadioButton Checked="EndingGroupRadioButton_Checked" Content="ir" GroupName="EndingGroup" Margin="4" VerticalAlignment="Center" x:Name="irRadioButton"/>
+				<Label Content="Defective:" Margin="8, 4, 4, 4"/>
+				<CheckBox Checked="DefectiveCheckBox_Checked" Margin="4" VerticalAlignment="Center" Unchecked="DefectiveCheckBox_Checked" x:Name="DefectiveCheckBox"/>
+				<Button Click="ResetButton_Click" Content="Reset" Margin="8, 4, 4, 4" Padding="4, 2" VerticalAlignment="Center"/>
+			</WrapPanel>
+		</GroupBox>
+		<ListBox Grid.Column="0" Grid.Row="1" Margin="4, 4, 0, 4" SelectionChanged="VerbsListBox_SelectionChanged" x:Name="verbsListBox"/>
+		<FlowDocumentScrollViewer Grid.Column="1" Grid.Row="1" Margin="0, 4, 4, 4" ScrollViewer.VerticalScrollBarVisibility="Auto">
+			<FlowDocument Name="tableFlowDocument"/>
+		</FlowDocumentScrollViewer>
+		<GroupBox Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2" Header="Export conjugations (.jpg)" Margin="4, 4, 4, 0" Padding="4">
+			<WrapPanel>
+				<Label Content="Location:" Margin="4"/>
+				<TextBox Margin="4" Name="PathTextBox" TextChanged="PathTextBox_TextChanged" VerticalAlignment="Center" Width="300"/>
+				<Button Click="BrowseButton_Click" Content="Browse" Margin="4" Padding="4, 2" VerticalAlignment="Center" x:Name="BrowseButton"/>
+				<Label Content="Filter:" Margin="8, 4, 4, 4"/>
+				<RadioButton Content="Yes (use filter above)" Margin="4" VerticalAlignment="Center" x:Name="YesFilterRadioButton"/>
+				<RadioButton Content="No (export all verbs)" IsChecked="True" Margin="4" VerticalAlignment="Center" x:Name="NoFilterRadioButton"/>
+				<Button Click="ExportButton_Click" Content="Export" IsEnabled="False" Margin="8, 4, 4, 4" Padding="4, 2" VerticalAlignment="Center" x:Name="ExportButton"/>
+			</WrapPanel>
+		</GroupBox>
+	</Grid>
+</Window>

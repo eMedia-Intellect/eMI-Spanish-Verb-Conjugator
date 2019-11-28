@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">contener</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">contengo</conjugation>
+			<conjugation number="singular" person="2">contienes</conjugation>
+			<conjugation number="singular" person="3">contiene</conjugation>
+			<conjugation number="plural" person="3">contienen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">contuve</conjugation>
+			<conjugation number="singular" person="2">contuviste</conjugation>
+			<conjugation number="singular" person="3">contuvo</conjugation>
+			<conjugation number="plural" person="1">contuvimos</conjugation>
+			<conjugation number="plural" person="2">contuvisteis</conjugation>
+			<conjugation number="plural" person="3">contuvieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">contendré</conjugation>
+			<conjugation number="singular" person="2">contendrás</conjugation>
+			<conjugation number="singular" person="3">contendrá</conjugation>
+			<conjugation number="plural" person="1">contendremos</conjugation>
+			<conjugation number="plural" person="2">contendréis</conjugation>
+			<conjugation number="plural" person="3">contendrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">contenga</conjugation>
+			<conjugation number="singular" person="2">contengas</conjugation>
+			<conjugation number="singular" person="3">contenga</conjugation>
+			<conjugation number="plural" person="1">contengamos</conjugation>
+			<conjugation number="plural" person="2">contengáis</conjugation>
+			<conjugation number="plural" person="3">contengan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">contuviera</conjugation>
+			<conjugation number="singular" person="2">contuvieras</conjugation>
+			<conjugation number="singular" person="3">contuviera</conjugation>
+			<conjugation number="plural" person="1">contuviéramos</conjugation>
+			<conjugation number="plural" person="2">contuvierais</conjugation>
+			<conjugation number="plural" person="3">contuvieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">contuviese</conjugation>
+			<conjugation number="singular" person="2">contuvieses</conjugation>
+			<conjugation number="singular" person="3">contuviese</conjugation>
+			<conjugation number="plural" person="1">contuviésemos</conjugation>
+			<conjugation number="plural" person="2">contuvieseis</conjugation>
+			<conjugation number="plural" person="3">contuviesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">contuviere</conjugation>
+			<conjugation number="singular" person="2">contuvieres</conjugation>
+			<conjugation number="singular" person="3">contuviere</conjugation>
+			<conjugation number="plural" person="1">contuviéremos</conjugation>
+			<conjugation number="plural" person="2">contuviereis</conjugation>
+			<conjugation number="plural" person="3">contuvieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">contén</conjugation>
+			<conjugation number="singular" person="3">contenga</conjugation>
+			<conjugation number="plural" person="1">contengamos</conjugation>
+			<conjugation number="plural" person="3">contengan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">contengas</conjugation>
+			<conjugation number="singular" person="3">contenga</conjugation>
+			<conjugation number="plural" person="1">contengamos</conjugation>
+			<conjugation number="plural" person="2">contengáis</conjugation>
+			<conjugation number="plural" person="3">contengan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">contendría</conjugation>
+			<conjugation number="singular" person="2">contendrías</conjugation>
+			<conjugation number="singular" person="3">contendría</conjugation>
+			<conjugation number="plural" person="1">contendríamos</conjugation>
+			<conjugation number="plural" person="2">contendríais</conjugation>
+			<conjugation number="plural" person="3">contendrían</conjugation>
+		</tense>
+	</mood>
+</verb>

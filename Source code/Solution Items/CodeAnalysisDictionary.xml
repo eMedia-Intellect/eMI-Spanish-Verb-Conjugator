@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<Dictionary>
+	<Words>
+		<Recognized>
+			<Word>abais</Word>
+		</Recognized>
+		<Recognized>
+			<Word>aban</Word>
+		</Recognized>
+		<Recognized>
+			<Word>abas</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ais</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ar</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ase</Word>
+		</Recognized>
+		<Recognized>
+			<Word>aseis</Word>
+		</Recognized>
+		<Recognized>
+			<Word>asen</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ases</Word>
+		</Recognized>
+		<Recognized>
+			<Word>aste</Word>
+		</Recognized>
+		<Recognized>
+			<Word>asteis</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ábamos</Word>
+		</Recognized>
+		<Recognized>
+			<Word>áis</Word>
+		</Recognized>
+		<Recognized>
+			<Word>án</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ás</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ásemos</Word>
+		</Recognized>
+		<Recognized>
+			<Word>conjugator</Word>
+		</Recognized>
+		<Recognized>
+			<Word>eis</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ellas</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ello</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ellos</Word>
+		</Recognized>
+		<Recognized>
+			<Word>emedia</Word>
+		</Recognized>
+		<Recognized>
+			<Word>emos</Word>
+		</Recognized>
+		<Recognized>
+			<Word>er</Word>
+		</Recognized>
+		<Recognized>
+			<Word>es</Word>
+		</Recognized>
+		<Recognized>
+			<Word>éis</Word>
+		</Recognized>
+		<Recognized>
+			<Word>él</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ido</Word>
+		</Recognized>
+		<Recognized>
+			<Word>iendo</Word>
+		</Recognized>
+		<Recognized>
+			<Word>iera</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ierais</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ieran</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ieras</Word>
+		</Recognized>
+		<Recognized>
+			<Word>iere</Word>
+		</Recognized>
+		<Recognized>
+			<Word>iereis</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ieren</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ieres</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ieron</Word>
+		</Recognized>
+		<Recognized>
+			<Word>iese</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ieseis</Word>
+		</Recognized>
+		<Recognized>
+			<Word>iesen</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ieses</Word>
+		</Recognized>
+		<Recognized>
+			<Word>iéramos</Word>
+		</Recognized>
+		<Recognized>
+			<Word>iéremos</Word>
+		</Recognized>
+		<Recognized>
+			<Word>iésemos</Word>
+		</Recognized>
+		<Recognized>
+			<Word>imos</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ió</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ir</Word>
+		</Recognized>
+		<Recognized>
+			<Word>iste</Word>
+		</Recognized>
+		<Recognized>
+			<Word>isteis</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ía</Word>
+		</Recognized>
+		<Recognized>
+			<Word>íais</Word>
+		</Recognized>
+		<Recognized>
+			<Word>íamos</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ían</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ías</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ís</Word>
+		</Recognized>
+		<Recognized>
+			<Word>licence</Word>
+		</Recognized>
+		<Recognized>
+			<Word>nosotras</Word>
+		</Recognized>
+		<Recognized>
+			<Word>nosotros</Word>
+		</Recognized>
+		<Recognized>
+			<Word>preterite</Word>
+		</Recognized>
+		<Recognized>
+			<Word>ra</Word>
+		</Recognized>
+		<Recognized>
+			<Word>se</Word>
+		</Recognized>
+		<Recognized>
+			<Word>tú</Word>
+		</Recognized>
+		<Recognized>
+			<Word>vosotras</Word>
+		</Recognized>
+		<Recognized>
+			<Word>vosotros</Word>
+		</Recognized>
+		<Recognized>
+			<Word>yo</Word>
+		</Recognized>
+	</Words>
+</Dictionary>

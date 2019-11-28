@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">marcar</form>
+	<mood type="indicative">
+		<tense type="preterite">
+			<conjugation number="singular" person="1">marqué</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">marque</conjugation>
+			<conjugation number="singular" person="2">marques</conjugation>
+			<conjugation number="singular" person="3">marque</conjugation>
+			<conjugation number="plural" person="1">marquemos</conjugation>
+			<conjugation number="plural" person="2">marquéis</conjugation>
+			<conjugation number="plural" person="3">marquen</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="3">marque</conjugation>
+			<conjugation number="plural" person="1">marquemos</conjugation>
+			<conjugation number="plural" person="3">marquen</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">marques</conjugation>
+			<conjugation number="singular" person="3">marque</conjugation>
+			<conjugation number="plural" person="1">marquemos</conjugation>
+			<conjugation number="plural" person="2">marquéis</conjugation>
+			<conjugation number="plural" person="3">marquen</conjugation>
+		</tense>
+	</mood>
+</verb>

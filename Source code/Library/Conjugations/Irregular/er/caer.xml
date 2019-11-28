@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">caer</form>
+	<form type="gerund">cayendo</form>
+	<form type="past-participle">caído</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">caigo</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="2">caíste</conjugation>
+			<conjugation number="singular" person="3">cayó</conjugation>
+			<conjugation number="plural" person="1">caímos</conjugation>
+			<conjugation number="plural" person="2">caísteis</conjugation>
+			<conjugation number="plural" person="3">cayeron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">caiga</conjugation>
+			<conjugation number="singular" person="2">caigas</conjugation>
+			<conjugation number="singular" person="3">caiga</conjugation>
+			<conjugation number="plural" person="1">caigamos</conjugation>
+			<conjugation number="plural" person="2">caigáis</conjugation>
+			<conjugation number="plural" person="3">caigan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">cayera</conjugation>
+			<conjugation number="singular" person="2">cayeras</conjugation>
+			<conjugation number="singular" person="3">cayera</conjugation>
+			<conjugation number="plural" person="1">cayéramos</conjugation>
+			<conjugation number="plural" person="2">cayerais</conjugation>
+			<conjugation number="plural" person="3">cayeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">cayese</conjugation>
+			<conjugation number="singular" person="2">cayeses</conjugation>
+			<conjugation number="singular" person="3">cayese</conjugation>
+			<conjugation number="plural" person="1">cayésemos</conjugation>
+			<conjugation number="plural" person="2">cayeseis</conjugation>
+			<conjugation number="plural" person="3">cayesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">cayere</conjugation>
+			<conjugation number="singular" person="2">cayeres</conjugation>
+			<conjugation number="singular" person="3">cayere</conjugation>
+			<conjugation number="plural" person="1">cayéremos</conjugation>
+			<conjugation number="plural" person="2">cayereis</conjugation>
+			<conjugation number="plural" person="3">cayeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="3">caiga</conjugation>
+			<conjugation number="plural" person="1">caigamos</conjugation>
+			<conjugation number="plural" person="3">caigan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">caigas</conjugation>
+			<conjugation number="singular" person="3">caiga</conjugation>
+			<conjugation number="plural" person="1">caigamos</conjugation>
+			<conjugation number="plural" person="2">caigáis</conjugation>
+			<conjugation number="plural" person="3">caigan</conjugation>
+		</tense>
+	</mood>
+</verb>

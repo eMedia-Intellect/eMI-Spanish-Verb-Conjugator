@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">predecir</form>
+	<form type="gerund">prediciendo</form>
+	<form type="past-participle">predicho</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">predigo</conjugation>
+			<conjugation number="singular" person="2">predices</conjugation>
+			<conjugation number="singular" person="3">predice</conjugation>
+			<conjugation number="plural" person="3">predicen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">predije</conjugation>
+			<conjugation number="singular" person="2">predijiste</conjugation>
+			<conjugation number="singular" person="3">predijo</conjugation>
+			<conjugation number="plural" person="1">predijimos</conjugation>
+			<conjugation number="plural" person="2">predijisteis</conjugation>
+			<conjugation number="plural" person="3">predijeron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">predeciré, prediré</conjugation>
+			<conjugation number="singular" person="2">predecirás, predirás</conjugation>
+			<conjugation number="singular" person="3">predecirá, predirá</conjugation>
+			<conjugation number="plural" person="1">predeciremos, prediremos</conjugation>
+			<conjugation number="plural" person="2">predeciréis, prediréis</conjugation>
+			<conjugation number="plural" person="3">predecirán, predirán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">prediga</conjugation>
+			<conjugation number="singular" person="2">predigas</conjugation>
+			<conjugation number="singular" person="3">prediga</conjugation>
+			<conjugation number="plural" person="1">predigamos</conjugation>
+			<conjugation number="plural" person="2">predigáis</conjugation>
+			<conjugation number="plural" person="3">predigan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">predijera</conjugation>
+			<conjugation number="singular" person="2">predijeras</conjugation>
+			<conjugation number="singular" person="3">predijera</conjugation>
+			<conjugation number="plural" person="1">predijéramos</conjugation>
+			<conjugation number="plural" person="2">predijerais</conjugation>
+			<conjugation number="plural" person="3">predijeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">predijese</conjugation>
+			<conjugation number="singular" person="2">predijeses</conjugation>
+			<conjugation number="singular" person="3">predijese</conjugation>
+			<conjugation number="plural" person="1">predijésemos</conjugation>
+			<conjugation number="plural" person="2">predijeseis</conjugation>
+			<conjugation number="plural" person="3">predijesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">predijere</conjugation>
+			<conjugation number="singular" person="2">predijeres</conjugation>
+			<conjugation number="singular" person="3">predijere</conjugation>
+			<conjugation number="plural" person="1">predijéremos</conjugation>
+			<conjugation number="plural" person="2">predijereis</conjugation>
+			<conjugation number="plural" person="3">predijeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">predice</conjugation>
+			<conjugation number="singular" person="3">prediga</conjugation>
+			<conjugation number="plural" person="1">predigamos</conjugation>
+			<conjugation number="plural" person="3">predigan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">predigas</conjugation>
+			<conjugation number="singular" person="3">prediga</conjugation>
+			<conjugation number="plural" person="1">predigamos</conjugation>
+			<conjugation number="plural" person="2">predigáis</conjugation>
+			<conjugation number="plural" person="3">predigan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">predeciría, prediría</conjugation>
+			<conjugation number="singular" person="2">predecirías, predirías</conjugation>
+			<conjugation number="singular" person="3">predeciría, prediría</conjugation>
+			<conjugation number="plural" person="1">predeciríamos, prediríamos</conjugation>
+			<conjugation number="plural" person="2">predeciríais, prediríais</conjugation>
+			<conjugation number="plural" person="3">predecirían, predirían</conjugation>
+		</tense>
+	</mood>
+</verb>

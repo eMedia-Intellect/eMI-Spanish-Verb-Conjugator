@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<SolutionProject>Library</SolutionProject>
+	</PropertyGroup>
+	<Import Project="..\Solution.props"/>
+	<PropertyGroup>
+		<OutputType>Library</OutputType>
+		<PreBuildEvent>XCOPY "$(SolutionDir)Library\Conjugations" "$(TargetDir)Conjugations\" /S /Y</PreBuildEvent>
+		<ProjectGuid>{46105637-5F60-41B1-8CCE-FE1687C4B651}</ProjectGuid>
+	</PropertyGroup>
+	<ItemGroup>
+		<Reference Include="System"/>
+		<Reference Include="System.Drawing"/>
+		<Reference Include="System.Xml"/>
+	</ItemGroup>
+	<ItemGroup>
+		<CodeAnalysisDictionary Include="..\Solution Items\CodeAnalysisDictionary.xml">
+			<Link>Properties\CodeAnalysisDictionary.xml</Link>
+		</CodeAnalysisDictionary>
+		<Compile Include="..\Solution Items\GlobalAssemblyInfo.cs">
+			<Link>Properties\GlobalAssemblyInfo.cs</Link>
+		</Compile>
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Include="Classes\Conjugation.cs"/>
+		<Compile Include="Classes\Conjugator.cs"/>
+		<Compile Include="Classes\PersonAndNumber.cs"/>
+		<Compile Include="Classes\Table.cs"/>
+		<Compile Include="Classes\Verb.cs"/>
+		<Compile Include="Classes\VerbForm.cs"/>
+		<Compile Include="Classes\VerbManager.cs"/>
+		<Compile Include="Enumerations\Inflection.cs"/>
+		<Compile Include="GlobalSuppressions.cs"/>
+		<Compile Include="Properties\AssemblyInfo.cs"/>
+		<ContentInclude Include="Conjugations\**"/>
+	</ItemGroup>
+	<Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
+</Project>

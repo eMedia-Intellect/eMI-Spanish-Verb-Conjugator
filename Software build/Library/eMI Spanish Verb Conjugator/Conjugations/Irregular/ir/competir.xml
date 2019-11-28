@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">competir</form>
+	<form type="gerund">compitiendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">compito</conjugation>
+			<conjugation number="singular" person="2">compites</conjugation>
+			<conjugation number="singular" person="3">compite</conjugation>
+			<conjugation number="plural" person="3">compiten</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">compitió</conjugation>
+			<conjugation number="plural" person="3">compitieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">compita</conjugation>
+			<conjugation number="singular" person="2">compitas</conjugation>
+			<conjugation number="singular" person="3">compita</conjugation>
+			<conjugation number="plural" person="1">compitamos</conjugation>
+			<conjugation number="plural" person="2">compitáis</conjugation>
+			<conjugation number="plural" person="3">compitan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">compitiera</conjugation>
+			<conjugation number="singular" person="2">compitieras</conjugation>
+			<conjugation number="singular" person="3">compitiera</conjugation>
+			<conjugation number="plural" person="1">compitiéramos</conjugation>
+			<conjugation number="plural" person="2">compitierais</conjugation>
+			<conjugation number="plural" person="3">compitieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">compitiese</conjugation>
+			<conjugation number="singular" person="2">compitieses</conjugation>
+			<conjugation number="singular" person="3">compitiese</conjugation>
+			<conjugation number="plural" person="1">compitiésemos</conjugation>
+			<conjugation number="plural" person="2">compitieseis</conjugation>
+			<conjugation number="plural" person="3">compitiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">compitiere</conjugation>
+			<conjugation number="singular" person="2">compitieres</conjugation>
+			<conjugation number="singular" person="3">compitiere</conjugation>
+			<conjugation number="plural" person="1">compitiéremos</conjugation>
+			<conjugation number="plural" person="2">compitiereis</conjugation>
+			<conjugation number="plural" person="3">compitieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">compite</conjugation>
+			<conjugation number="singular" person="3">compita</conjugation>
+			<conjugation number="plural" person="1">compitamos</conjugation>
+			<conjugation number="plural" person="3">compitan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">compitas</conjugation>
+			<conjugation number="singular" person="3">compita</conjugation>
+			<conjugation number="plural" person="1">compitamos</conjugation>
+			<conjugation number="plural" person="2">compitáis</conjugation>
+			<conjugation number="plural" person="3">compitan</conjugation>
+		</tense>
+	</mood>
+</verb>

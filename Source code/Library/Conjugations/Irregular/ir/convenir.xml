@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">convenir</form>
+	<form type="gerund">conviniendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">convengo</conjugation>
+			<conjugation number="singular" person="2">convienes</conjugation>
+			<conjugation number="singular" person="3">conviene</conjugation>
+			<conjugation number="plural" person="3">convienen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">convine</conjugation>
+			<conjugation number="singular" person="2">conviniste</conjugation>
+			<conjugation number="singular" person="3">convino</conjugation>
+			<conjugation number="plural" person="1">convinimos</conjugation>
+			<conjugation number="plural" person="2">convinisteis</conjugation>
+			<conjugation number="plural" person="3">convinieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">convendré</conjugation>
+			<conjugation number="singular" person="2">convendrás</conjugation>
+			<conjugation number="singular" person="3">convendrá</conjugation>
+			<conjugation number="plural" person="1">convendremos</conjugation>
+			<conjugation number="plural" person="2">convendréis</conjugation>
+			<conjugation number="plural" person="3">convendrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">convenga</conjugation>
+			<conjugation number="singular" person="2">convengas</conjugation>
+			<conjugation number="singular" person="3">convenga</conjugation>
+			<conjugation number="plural" person="1">convengamos</conjugation>
+			<conjugation number="plural" person="2">convengáis</conjugation>
+			<conjugation number="plural" person="3">convengan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">conviniera</conjugation>
+			<conjugation number="singular" person="2">convinieras</conjugation>
+			<conjugation number="singular" person="3">conviniera</conjugation>
+			<conjugation number="plural" person="1">conviniéramos</conjugation>
+			<conjugation number="plural" person="2">convinierais</conjugation>
+			<conjugation number="plural" person="3">convinieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">conviniese</conjugation>
+			<conjugation number="singular" person="2">convinieses</conjugation>
+			<conjugation number="singular" person="3">conviniese</conjugation>
+			<conjugation number="plural" person="1">conviniésemos</conjugation>
+			<conjugation number="plural" person="2">convinieseis</conjugation>
+			<conjugation number="plural" person="3">conviniesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">conviniere</conjugation>
+			<conjugation number="singular" person="2">convinieres</conjugation>
+			<conjugation number="singular" person="3">conviniere</conjugation>
+			<conjugation number="plural" person="1">conviniéremos</conjugation>
+			<conjugation number="plural" person="2">conviniereis</conjugation>
+			<conjugation number="plural" person="3">convinieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">convén</conjugation>
+			<conjugation number="singular" person="3">convenga</conjugation>
+			<conjugation number="plural" person="1">convengamos</conjugation>
+			<conjugation number="plural" person="3">convengan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">convengas</conjugation>
+			<conjugation number="singular" person="3">convenga</conjugation>
+			<conjugation number="plural" person="1">convengamos</conjugation>
+			<conjugation number="plural" person="2">convengáis</conjugation>
+			<conjugation number="plural" person="3">convengan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">convendría</conjugation>
+			<conjugation number="singular" person="2">convendrías</conjugation>
+			<conjugation number="singular" person="3">convendría</conjugation>
+			<conjugation number="plural" person="1">convendríamos</conjugation>
+			<conjugation number="plural" person="2">convendríais</conjugation>
+			<conjugation number="plural" person="3">convendrían</conjugation>
+		</tense>
+	</mood>
+</verb>

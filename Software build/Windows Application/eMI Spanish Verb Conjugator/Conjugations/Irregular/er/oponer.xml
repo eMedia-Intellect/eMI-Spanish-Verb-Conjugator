@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">oponer</form>
+	<form type="past-participle">opuesto</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">opongo</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">opuse</conjugation>
+			<conjugation number="singular" person="2">opusiste</conjugation>
+			<conjugation number="singular" person="3">opuso</conjugation>
+			<conjugation number="plural" person="1">opusimos</conjugation>
+			<conjugation number="plural" person="2">opusisteis</conjugation>
+			<conjugation number="plural" person="3">opusieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">opondré</conjugation>
+			<conjugation number="singular" person="2">opondrás</conjugation>
+			<conjugation number="singular" person="3">opondrá</conjugation>
+			<conjugation number="plural" person="1">opondremos</conjugation>
+			<conjugation number="plural" person="2">opondréis</conjugation>
+			<conjugation number="plural" person="3">opondrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">oponga</conjugation>
+			<conjugation number="singular" person="2">opongas</conjugation>
+			<conjugation number="singular" person="3">oponga</conjugation>
+			<conjugation number="plural" person="1">opongamos</conjugation>
+			<conjugation number="plural" person="2">opongáis</conjugation>
+			<conjugation number="plural" person="3">opongan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">opusiera</conjugation>
+			<conjugation number="singular" person="2">opusieras</conjugation>
+			<conjugation number="singular" person="3">opusiera</conjugation>
+			<conjugation number="plural" person="1">opusiéramos</conjugation>
+			<conjugation number="plural" person="2">opusierais</conjugation>
+			<conjugation number="plural" person="3">opusieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">opusiese</conjugation>
+			<conjugation number="singular" person="2">opusieses</conjugation>
+			<conjugation number="singular" person="3">opusiese</conjugation>
+			<conjugation number="plural" person="1">opusiésemos</conjugation>
+			<conjugation number="plural" person="2">opusieseis</conjugation>
+			<conjugation number="plural" person="3">opusiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">opusiere</conjugation>
+			<conjugation number="singular" person="2">opusieres</conjugation>
+			<conjugation number="singular" person="3">opusiere</conjugation>
+			<conjugation number="plural" person="1">opusiéremos</conjugation>
+			<conjugation number="plural" person="2">opusiereis</conjugation>
+			<conjugation number="plural" person="3">opusieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">opón</conjugation>
+			<conjugation number="singular" person="3">oponga</conjugation>
+			<conjugation number="plural" person="1">opongamos</conjugation>
+			<conjugation number="plural" person="3">opongan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">opongas</conjugation>
+			<conjugation number="singular" person="3">oponga</conjugation>
+			<conjugation number="plural" person="1">opongamos</conjugation>
+			<conjugation number="plural" person="2">opongáis</conjugation>
+			<conjugation number="plural" person="3">opongan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">opondría</conjugation>
+			<conjugation number="singular" person="2">opondrías</conjugation>
+			<conjugation number="singular" person="3">opondría</conjugation>
+			<conjugation number="plural" person="1">opondríamos</conjugation>
+			<conjugation number="plural" person="2">opondríais</conjugation>
+			<conjugation number="plural" person="3">opondrían</conjugation>
+		</tense>
+	</mood>
+</verb>

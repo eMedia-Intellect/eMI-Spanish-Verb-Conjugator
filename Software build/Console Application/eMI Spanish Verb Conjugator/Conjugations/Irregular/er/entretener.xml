@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">entretener</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">entretengo</conjugation>
+			<conjugation number="singular" person="2">entretienes</conjugation>
+			<conjugation number="singular" person="3">entretiene</conjugation>
+			<conjugation number="plural" person="3">entretienen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">entretuve</conjugation>
+			<conjugation number="singular" person="2">entretuviste</conjugation>
+			<conjugation number="singular" person="3">entretuvo</conjugation>
+			<conjugation number="plural" person="1">entretuvimos</conjugation>
+			<conjugation number="plural" person="2">entretuvisteis</conjugation>
+			<conjugation number="plural" person="3">entretuvieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">entretendré</conjugation>
+			<conjugation number="singular" person="2">entretendrás</conjugation>
+			<conjugation number="singular" person="3">entretendrá</conjugation>
+			<conjugation number="plural" person="1">entretendremos</conjugation>
+			<conjugation number="plural" person="2">entretendréis</conjugation>
+			<conjugation number="plural" person="3">entretendrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">entretenga</conjugation>
+			<conjugation number="singular" person="2">entretengas</conjugation>
+			<conjugation number="singular" person="3">entretenga</conjugation>
+			<conjugation number="plural" person="1">entretengamos</conjugation>
+			<conjugation number="plural" person="2">entretengáis</conjugation>
+			<conjugation number="plural" person="3">entretengan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">entretuviera</conjugation>
+			<conjugation number="singular" person="2">entretuvieras</conjugation>
+			<conjugation number="singular" person="3">entretuviera</conjugation>
+			<conjugation number="plural" person="1">entretuviéramos</conjugation>
+			<conjugation number="plural" person="2">entretuvierais</conjugation>
+			<conjugation number="plural" person="3">entretuvieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">entretuviese</conjugation>
+			<conjugation number="singular" person="2">entretuvieses</conjugation>
+			<conjugation number="singular" person="3">entretuviese</conjugation>
+			<conjugation number="plural" person="1">entretuviésemos</conjugation>
+			<conjugation number="plural" person="2">entretuvieseis</conjugation>
+			<conjugation number="plural" person="3">entretuviesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">entretuviere</conjugation>
+			<conjugation number="singular" person="2">entretuvieres</conjugation>
+			<conjugation number="singular" person="3">entretuviere</conjugation>
+			<conjugation number="plural" person="1">entretuviéremos</conjugation>
+			<conjugation number="plural" person="2">entretuviereis</conjugation>
+			<conjugation number="plural" person="3">entretuvieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">entretén</conjugation>
+			<conjugation number="singular" person="3">entretenga</conjugation>
+			<conjugation number="plural" person="1">entretengamos</conjugation>
+			<conjugation number="plural" person="3">entretengan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">entretengas</conjugation>
+			<conjugation number="singular" person="3">entretenga</conjugation>
+			<conjugation number="plural" person="1">entretengamos</conjugation>
+			<conjugation number="plural" person="2">entretengáis</conjugation>
+			<conjugation number="plural" person="3">entretengan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">entretendría</conjugation>
+			<conjugation number="singular" person="2">entretendrías</conjugation>
+			<conjugation number="singular" person="3">entretendría</conjugation>
+			<conjugation number="plural" person="1">entretendríamos</conjugation>
+			<conjugation number="plural" person="2">entretendríais</conjugation>
+			<conjugation number="plural" person="3">entretendrían</conjugation>
+		</tense>
+	</mood>
+</verb>

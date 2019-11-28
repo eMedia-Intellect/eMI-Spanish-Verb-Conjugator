@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">contribuir</form>
+	<form type="gerund">contribuyendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">contribuyo</conjugation>
+			<conjugation number="singular" person="2">contribuyes</conjugation>
+			<conjugation number="singular" person="3">contribuye</conjugation>
+			<conjugation number="plural" person="3">contribuyen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">contribuyó</conjugation>
+			<conjugation number="plural" person="3">contribuyeron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">contribuya</conjugation>
+			<conjugation number="singular" person="2">contribuyas</conjugation>
+			<conjugation number="singular" person="3">contribuya</conjugation>
+			<conjugation number="plural" person="1">contribuyamos</conjugation>
+			<conjugation number="plural" person="2">contribuyáis</conjugation>
+			<conjugation number="plural" person="3">contribuyan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">contribuyera</conjugation>
+			<conjugation number="singular" person="2">contribuyeras</conjugation>
+			<conjugation number="singular" person="3">contribuyera</conjugation>
+			<conjugation number="plural" person="1">contribuyéramos</conjugation>
+			<conjugation number="plural" person="2">contribuyerais</conjugation>
+			<conjugation number="plural" person="3">contribuyeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">contribuyese</conjugation>
+			<conjugation number="singular" person="2">contribuyeses</conjugation>
+			<conjugation number="singular" person="3">contribuyese</conjugation>
+			<conjugation number="plural" person="1">contribuyésemos</conjugation>
+			<conjugation number="plural" person="2">contribuyeseis</conjugation>
+			<conjugation number="plural" person="3">contribuyesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">contribuyere</conjugation>
+			<conjugation number="singular" person="2">contribuyeres</conjugation>
+			<conjugation number="singular" person="3">contribuyere</conjugation>
+			<conjugation number="plural" person="1">contribuyéremos</conjugation>
+			<conjugation number="plural" person="2">contribuyereis</conjugation>
+			<conjugation number="plural" person="3">contribuyeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">contribuye</conjugation>
+			<conjugation number="singular" person="3">contribuya</conjugation>
+			<conjugation number="plural" person="1">contribuyamos</conjugation>
+			<conjugation number="plural" person="3">contribuyan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">contribuyas</conjugation>
+			<conjugation number="singular" person="3">contribuya</conjugation>
+			<conjugation number="plural" person="1">contribuyamos</conjugation>
+			<conjugation number="plural" person="2">contribuyáis</conjugation>
+			<conjugation number="plural" person="3">contribuyan</conjugation>
+		</tense>
+	</mood>
+</verb>

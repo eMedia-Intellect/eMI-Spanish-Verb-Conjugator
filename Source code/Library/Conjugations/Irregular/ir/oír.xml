@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">oír</form>
+	<form type="gerund">oyendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">oigo</conjugation>
+			<conjugation number="singular" person="2">oyes</conjugation>
+			<conjugation number="singular" person="3">oye</conjugation>
+			<conjugation number="plural" person="1">oímos</conjugation>
+			<conjugation number="plural" person="2">oís</conjugation>
+			<conjugation number="plural" person="3">oyen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">oyó</conjugation>
+			<conjugation number="plural" person="3">oyeron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">oiga</conjugation>
+			<conjugation number="singular" person="2">oigas</conjugation>
+			<conjugation number="singular" person="3">oiga</conjugation>
+			<conjugation number="plural" person="1">oigamos</conjugation>
+			<conjugation number="plural" person="2">oigáis</conjugation>
+			<conjugation number="plural" person="3">oigan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">oyera</conjugation>
+			<conjugation number="singular" person="2">oyeras</conjugation>
+			<conjugation number="singular" person="3">oyera</conjugation>
+			<conjugation number="plural" person="1">oyéramos</conjugation>
+			<conjugation number="plural" person="2">oyerais</conjugation>
+			<conjugation number="plural" person="3">oyeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">oyese</conjugation>
+			<conjugation number="singular" person="2">oyeses</conjugation>
+			<conjugation number="singular" person="3">oyese</conjugation>
+			<conjugation number="plural" person="1">oyésemos</conjugation>
+			<conjugation number="plural" person="2">oyeseis</conjugation>
+			<conjugation number="plural" person="3">oyesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">oyere</conjugation>
+			<conjugation number="singular" person="2">oyeres</conjugation>
+			<conjugation number="singular" person="3">oyere</conjugation>
+			<conjugation number="plural" person="1">oyéremos</conjugation>
+			<conjugation number="plural" person="2">oyereis</conjugation>
+			<conjugation number="plural" person="3">oyeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">oye</conjugation>
+			<conjugation number="singular" person="3">oiga</conjugation>
+			<conjugation number="plural" person="1">oigamos</conjugation>
+			<conjugation number="plural" person="3">oigan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">oigas</conjugation>
+			<conjugation number="singular" person="3">oiga</conjugation>
+			<conjugation number="plural" person="1">oigamos</conjugation>
+			<conjugation number="plural" person="2">oigáis</conjugation>
+			<conjugation number="plural" person="3">oigan</conjugation>
+		</tense>
+	</mood>
+</verb>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="verb">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="form" minOccurs="1" maxOccurs="3">
+					<xs:complexType>
+						<xs:simpleContent>
+							<xs:extension base="xs:string">
+								<xs:attribute name="type" use="required">
+									<xs:simpleType>
+										<xs:restriction base="xs:string">
+											<xs:enumeration value="infinitive"/>
+											<xs:enumeration value="gerund"/>
+											<xs:enumeration value="past-participle"/>
+										</xs:restriction>
+									</xs:simpleType>
+								</xs:attribute>
+								<xs:attribute name="defective" type="xs:boolean" use="optional"/>
+							</xs:extension>
+						</xs:simpleContent>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="mood" minOccurs="0" maxOccurs="4">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="tense" minOccurs="1" maxOccurs="5">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="conjugation" minOccurs="0" maxOccurs="6">
+											<xs:complexType>
+												<xs:simpleContent>
+													<xs:extension base="xs:string">
+														<xs:attribute name="number" use="required">
+															<xs:simpleType>
+																<xs:restriction base="xs:string">
+																	<xs:enumeration value="singular"/>
+																	<xs:enumeration value="plural"/>
+																</xs:restriction>
+															</xs:simpleType>
+														</xs:attribute>
+														<xs:attribute name="person" use="required">
+															<xs:simpleType>
+																<xs:restriction base="xs:unsignedByte">
+																	<xs:enumeration value="1"/>
+																	<xs:enumeration value="2"/>
+																	<xs:enumeration value="3"/>
+																</xs:restriction>
+															</xs:simpleType>
+														</xs:attribute>
+													</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="type" use="optional">
+										<xs:simpleType>
+											<xs:restriction base="xs:string">
+												<xs:enumeration value="present"/>
+												<xs:enumeration value="imperfect"/>
+												<xs:enumeration value="preterite"/>
+												<xs:enumeration value="future"/>
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:attribute>
+									<xs:attribute name="variant" use="optional">
+										<xs:simpleType>
+											<xs:restriction base="xs:string">
+												<xs:enumeration value="affirmative"/>
+												<xs:enumeration value="negative"/>
+												<xs:enumeration value="ra"/>
+												<xs:enumeration value="se"/>
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:attribute>
+									<xs:attribute name="defective" type="xs:boolean" use="optional"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="type" use="required">
+							<xs:simpleType>
+								<xs:restriction base="xs:string">
+									<xs:enumeration value="indicative"/>
+									<xs:enumeration value="subjunctive"/>
+									<xs:enumeration value="imperative"/>
+									<xs:enumeration value="conditional"/>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

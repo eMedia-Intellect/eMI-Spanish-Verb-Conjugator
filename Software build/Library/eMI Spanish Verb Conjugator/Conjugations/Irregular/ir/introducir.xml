@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">introducir</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">introduzco</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">introduje</conjugation>
+			<conjugation number="singular" person="2">introdujiste</conjugation>
+			<conjugation number="singular" person="3">introdujo</conjugation>
+			<conjugation number="plural" person="1">introdujimos</conjugation>
+			<conjugation number="plural" person="2">introdujisteis</conjugation>
+			<conjugation number="plural" person="3">introdujeron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">introduzca</conjugation>
+			<conjugation number="singular" person="2">introduzcas</conjugation>
+			<conjugation number="singular" person="3">introduzca</conjugation>
+			<conjugation number="plural" person="1">introduzcamos</conjugation>
+			<conjugation number="plural" person="2">introduzcáis</conjugation>
+			<conjugation number="plural" person="3">introduzcan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">introdujera</conjugation>
+			<conjugation number="singular" person="2">introdujeras</conjugation>
+			<conjugation number="singular" person="3">introdujera</conjugation>
+			<conjugation number="plural" person="1">introdujéramos</conjugation>
+			<conjugation number="plural" person="2">introdujerais</conjugation>
+			<conjugation number="plural" person="3">introdujeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">introdujese</conjugation>
+			<conjugation number="singular" person="2">introdujeses</conjugation>
+			<conjugation number="singular" person="3">introdujese</conjugation>
+			<conjugation number="plural" person="1">introdujésemos</conjugation>
+			<conjugation number="plural" person="2">introdujeseis</conjugation>
+			<conjugation number="plural" person="3">introdujesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">introdujere</conjugation>
+			<conjugation number="singular" person="2">introdujeres</conjugation>
+			<conjugation number="singular" person="3">introdujere</conjugation>
+			<conjugation number="plural" person="1">introdujéremos</conjugation>
+			<conjugation number="plural" person="2">introdujereis</conjugation>
+			<conjugation number="plural" person="3">introdujeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="3">introduzca</conjugation>
+			<conjugation number="plural" person="1">introduzcamos</conjugation>
+			<conjugation number="plural" person="3">introduzcan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">introduzcas</conjugation>
+			<conjugation number="singular" person="3">introduzca</conjugation>
+			<conjugation number="plural" person="1">introduzcamos</conjugation>
+			<conjugation number="plural" person="2">introduzcáis</conjugation>
+			<conjugation number="plural" person="3">introduzcan</conjugation>
+		</tense>
+	</mood>
+</verb>

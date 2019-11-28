@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">traducir</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">traduzco</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">traduje</conjugation>
+			<conjugation number="singular" person="2">tradujiste</conjugation>
+			<conjugation number="singular" person="3">tradujo</conjugation>
+			<conjugation number="plural" person="1">tradujimos</conjugation>
+			<conjugation number="plural" person="2">tradujisteis</conjugation>
+			<conjugation number="plural" person="3">tradujeron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">traduzca</conjugation>
+			<conjugation number="singular" person="2">traduzcas</conjugation>
+			<conjugation number="singular" person="3">traduzca</conjugation>
+			<conjugation number="plural" person="1">traduzcamos</conjugation>
+			<conjugation number="plural" person="2">traduzcáis</conjugation>
+			<conjugation number="plural" person="3">traduzcan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">tradujera</conjugation>
+			<conjugation number="singular" person="2">tradujeras</conjugation>
+			<conjugation number="singular" person="3">tradujera</conjugation>
+			<conjugation number="plural" person="1">tradujéramos</conjugation>
+			<conjugation number="plural" person="2">tradujerais</conjugation>
+			<conjugation number="plural" person="3">tradujeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">tradujese</conjugation>
+			<conjugation number="singular" person="2">tradujeses</conjugation>
+			<conjugation number="singular" person="3">tradujese</conjugation>
+			<conjugation number="plural" person="1">tradujésemos</conjugation>
+			<conjugation number="plural" person="2">tradujeseis</conjugation>
+			<conjugation number="plural" person="3">tradujesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">tradujere</conjugation>
+			<conjugation number="singular" person="2">tradujeres</conjugation>
+			<conjugation number="singular" person="3">tradujere</conjugation>
+			<conjugation number="plural" person="1">tradujéremos</conjugation>
+			<conjugation number="plural" person="2">tradujereis</conjugation>
+			<conjugation number="plural" person="3">tradujeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="3">traduzca</conjugation>
+			<conjugation number="plural" person="1">traduzcamos</conjugation>
+			<conjugation number="plural" person="3">traduzcan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">traduzcas</conjugation>
+			<conjugation number="singular" person="3">traduzca</conjugation>
+			<conjugation number="plural" person="1">traduzcamos</conjugation>
+			<conjugation number="plural" person="2">traduzcáis</conjugation>
+			<conjugation number="plural" person="3">traduzcan</conjugation>
+		</tense>
+	</mood>
+</verb>

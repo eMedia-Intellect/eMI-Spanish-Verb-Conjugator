@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">estar</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">estoy</conjugation>
+			<conjugation number="singular" person="2">estás</conjugation>
+			<conjugation number="singular" person="3">está</conjugation>
+			<conjugation number="plural" person="3">están</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">estuve</conjugation>
+			<conjugation number="singular" person="2">estuviste</conjugation>
+			<conjugation number="singular" person="3">estuvo</conjugation>
+			<conjugation number="plural" person="1">estuvimos</conjugation>
+			<conjugation number="plural" person="2">estuvisteis</conjugation>
+			<conjugation number="plural" person="3">estuvieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">esté</conjugation>
+			<conjugation number="singular" person="2">estés</conjugation>
+			<conjugation number="singular" person="3">esté</conjugation>
+			<conjugation number="plural" person="3">estén</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">estuviera</conjugation>
+			<conjugation number="singular" person="2">estuvieras</conjugation>
+			<conjugation number="singular" person="3">estuviera</conjugation>
+			<conjugation number="plural" person="1">estuviéramos</conjugation>
+			<conjugation number="plural" person="2">estuvierais</conjugation>
+			<conjugation number="plural" person="3">estuvieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">estuviese</conjugation>
+			<conjugation number="singular" person="2">estuvieses</conjugation>
+			<conjugation number="singular" person="3">estuviese</conjugation>
+			<conjugation number="plural" person="1">estuviésemos</conjugation>
+			<conjugation number="plural" person="2">estuvieseis</conjugation>
+			<conjugation number="plural" person="3">estuviesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">estuviere</conjugation>
+			<conjugation number="singular" person="2">estuvieres</conjugation>
+			<conjugation number="singular" person="3">estuviere</conjugation>
+			<conjugation number="plural" person="1">estuviéremos</conjugation>
+			<conjugation number="plural" person="2">estuviereis</conjugation>
+			<conjugation number="plural" person="3">estuvieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">está</conjugation>
+			<conjugation number="singular" person="3">esté</conjugation>
+			<conjugation number="plural" person="3">estén</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">estés</conjugation>
+			<conjugation number="singular" person="3">esté</conjugation>
+			<conjugation number="plural" person="3">estén</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">estaría</conjugation>
+			<conjugation number="singular" person="2">estarías</conjugation>
+			<conjugation number="singular" person="3">estaría</conjugation>
+			<conjugation number="plural" person="1">estaríamos</conjugation>
+			<conjugation number="plural" person="2">estaríais</conjugation>
+			<conjugation number="plural" person="3">estarían</conjugation>
+		</tense>
+	</mood>
+</verb>

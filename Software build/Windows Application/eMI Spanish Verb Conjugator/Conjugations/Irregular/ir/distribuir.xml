@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">distribuir</form>
+	<form type="gerund">distribuyendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">distribuyo</conjugation>
+			<conjugation number="singular" person="2">distribuyes</conjugation>
+			<conjugation number="singular" person="3">distribuye</conjugation>
+			<conjugation number="plural" person="3">distribuyen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">distribuyó</conjugation>
+			<conjugation number="plural" person="3">distribuyeron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">distribuya</conjugation>
+			<conjugation number="singular" person="2">distribuyas</conjugation>
+			<conjugation number="singular" person="3">distribuya</conjugation>
+			<conjugation number="plural" person="1">distribuyamos</conjugation>
+			<conjugation number="plural" person="2">distribuyáis</conjugation>
+			<conjugation number="plural" person="3">distribuyan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">distribuyera</conjugation>
+			<conjugation number="singular" person="2">distribuyeras</conjugation>
+			<conjugation number="singular" person="3">distribuyera</conjugation>
+			<conjugation number="plural" person="1">distribuyéramos</conjugation>
+			<conjugation number="plural" person="2">distribuyerais</conjugation>
+			<conjugation number="plural" person="3">distribuyeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">distribuyese</conjugation>
+			<conjugation number="singular" person="2">distribuyeses</conjugation>
+			<conjugation number="singular" person="3">distribuyese</conjugation>
+			<conjugation number="plural" person="1">distribuyésemos</conjugation>
+			<conjugation number="plural" person="2">distribuyeseis</conjugation>
+			<conjugation number="plural" person="3">distribuyesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">distribuyere</conjugation>
+			<conjugation number="singular" person="2">distribuyeres</conjugation>
+			<conjugation number="singular" person="3">distribuyere</conjugation>
+			<conjugation number="plural" person="1">distribuyéremos</conjugation>
+			<conjugation number="plural" person="2">distribuyereis</conjugation>
+			<conjugation number="plural" person="3">distribuyeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">distribuye</conjugation>
+			<conjugation number="singular" person="3">distribuya</conjugation>
+			<conjugation number="plural" person="1">distribuyamos</conjugation>
+			<conjugation number="plural" person="3">distribuyan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">distribuyas</conjugation>
+			<conjugation number="singular" person="3">distribuya</conjugation>
+			<conjugation number="plural" person="1">distribuyamos</conjugation>
+			<conjugation number="plural" person="2">distribuyáis</conjugation>
+			<conjugation number="plural" person="3">distribuyan</conjugation>
+		</tense>
+	</mood>
+</verb>

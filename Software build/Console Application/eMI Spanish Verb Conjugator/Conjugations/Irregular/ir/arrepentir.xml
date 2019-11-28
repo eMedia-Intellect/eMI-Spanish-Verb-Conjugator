@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">arrepentir</form>
+	<form type="gerund">arrepintiendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">arrepiento</conjugation>
+			<conjugation number="singular" person="2">arrepientes</conjugation>
+			<conjugation number="singular" person="3">arrepiente</conjugation>
+			<conjugation number="plural" person="3">arrepienten</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">arrepintió</conjugation>
+			<conjugation number="plural" person="3">arrepintieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">arrepienta</conjugation>
+			<conjugation number="singular" person="2">arrepientas</conjugation>
+			<conjugation number="singular" person="3">arrepienta</conjugation>
+			<conjugation number="plural" person="1">arrepintamos</conjugation>
+			<conjugation number="plural" person="2">arrepintáis</conjugation>
+			<conjugation number="plural" person="3">arrepientan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">arrepintiera</conjugation>
+			<conjugation number="singular" person="2">arrepintieras</conjugation>
+			<conjugation number="singular" person="3">arrepintiera</conjugation>
+			<conjugation number="plural" person="1">arrepintiéramos</conjugation>
+			<conjugation number="plural" person="2">arrepintierais</conjugation>
+			<conjugation number="plural" person="3">arrepintieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">arrepintiese</conjugation>
+			<conjugation number="singular" person="2">arrepintieses</conjugation>
+			<conjugation number="singular" person="3">arrepintiese</conjugation>
+			<conjugation number="plural" person="1">arrepintiésemos</conjugation>
+			<conjugation number="plural" person="2">arrepintieseis</conjugation>
+			<conjugation number="plural" person="3">arrepintiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">arrepintiere</conjugation>
+			<conjugation number="singular" person="2">arrepintieres</conjugation>
+			<conjugation number="singular" person="3">arrepintiere</conjugation>
+			<conjugation number="plural" person="1">arrepintiéremos</conjugation>
+			<conjugation number="plural" person="2">arrepintiereis</conjugation>
+			<conjugation number="plural" person="3">arrepintieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">arrepiente</conjugation>
+			<conjugation number="singular" person="3">arrepienta</conjugation>
+			<conjugation number="plural" person="1">arrepintamos</conjugation>
+			<conjugation number="plural" person="3">arrepientan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">arrepientas</conjugation>
+			<conjugation number="singular" person="3">arrepienta</conjugation>
+			<conjugation number="plural" person="1">arrepintamos</conjugation>
+			<conjugation number="plural" person="2">arrepintáis</conjugation>
+			<conjugation number="plural" person="3">arrepientan</conjugation>
+		</tense>
+	</mood>
+</verb>

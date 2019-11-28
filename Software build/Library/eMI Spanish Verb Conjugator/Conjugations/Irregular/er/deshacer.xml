@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">deshacer</form>
+	<form type="past-participle">deshecho</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">deshago</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">deshice</conjugation>
+			<conjugation number="singular" person="2">deshiciste</conjugation>
+			<conjugation number="singular" person="3">deshizo</conjugation>
+			<conjugation number="plural" person="1">deshicimos</conjugation>
+			<conjugation number="plural" person="2">deshicisteis</conjugation>
+			<conjugation number="plural" person="3">deshicieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">desharé</conjugation>
+			<conjugation number="singular" person="2">desharás</conjugation>
+			<conjugation number="singular" person="3">deshará</conjugation>
+			<conjugation number="plural" person="1">desharemos</conjugation>
+			<conjugation number="plural" person="2">desharéis</conjugation>
+			<conjugation number="plural" person="3">desharán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">deshaga</conjugation>
+			<conjugation number="singular" person="2">deshagas</conjugation>
+			<conjugation number="singular" person="3">deshaga</conjugation>
+			<conjugation number="plural" person="1">deshagamos</conjugation>
+			<conjugation number="plural" person="2">deshagáis</conjugation>
+			<conjugation number="plural" person="3">deshagan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">deshiciera</conjugation>
+			<conjugation number="singular" person="2">deshicieras</conjugation>
+			<conjugation number="singular" person="3">deshiciera</conjugation>
+			<conjugation number="plural" person="1">deshiciéramos</conjugation>
+			<conjugation number="plural" person="2">deshicierais</conjugation>
+			<conjugation number="plural" person="3">deshicieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">deshiciese</conjugation>
+			<conjugation number="singular" person="2">deshicieses</conjugation>
+			<conjugation number="singular" person="3">deshiciese</conjugation>
+			<conjugation number="plural" person="1">deshiciésemos</conjugation>
+			<conjugation number="plural" person="2">deshicieseis</conjugation>
+			<conjugation number="plural" person="3">deshiciesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">deshiciere</conjugation>
+			<conjugation number="singular" person="2">deshicieres</conjugation>
+			<conjugation number="singular" person="3">deshiciere</conjugation>
+			<conjugation number="plural" person="1">deshiciéremos</conjugation>
+			<conjugation number="plural" person="2">deshiciereis</conjugation>
+			<conjugation number="plural" person="3">deshicieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">deshace, deshaz</conjugation>
+			<conjugation number="singular" person="3">deshaga</conjugation>
+			<conjugation number="plural" person="1">deshagamos</conjugation>
+			<conjugation number="plural" person="3">deshagan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">deshagas</conjugation>
+			<conjugation number="singular" person="3">deshaga</conjugation>
+			<conjugation number="plural" person="1">deshagamos</conjugation>
+			<conjugation number="plural" person="2">deshagáis</conjugation>
+			<conjugation number="plural" person="3">deshagan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">desharía</conjugation>
+			<conjugation number="singular" person="2">desharías</conjugation>
+			<conjugation number="singular" person="3">desharía</conjugation>
+			<conjugation number="plural" person="1">desharíamos</conjugation>
+			<conjugation number="plural" person="2">desharíais</conjugation>
+			<conjugation number="plural" person="3">desharían</conjugation>
+		</tense>
+	</mood>
+</verb>

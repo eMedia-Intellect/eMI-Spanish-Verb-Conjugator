@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">proponer</form>
+	<form type="past-participle">propuesto</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">propongo</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">propuse</conjugation>
+			<conjugation number="singular" person="2">propusiste</conjugation>
+			<conjugation number="singular" person="3">propuso</conjugation>
+			<conjugation number="plural" person="1">propusimos</conjugation>
+			<conjugation number="plural" person="2">propusisteis</conjugation>
+			<conjugation number="plural" person="3">propusieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">propondré</conjugation>
+			<conjugation number="singular" person="2">propondrás</conjugation>
+			<conjugation number="singular" person="3">propondrá</conjugation>
+			<conjugation number="plural" person="1">propondremos</conjugation>
+			<conjugation number="plural" person="2">propondréis</conjugation>
+			<conjugation number="plural" person="3">propondrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">proponga</conjugation>
+			<conjugation number="singular" person="2">propongas</conjugation>
+			<conjugation number="singular" person="3">proponga</conjugation>
+			<conjugation number="plural" person="1">propongamos</conjugation>
+			<conjugation number="plural" person="2">propongáis</conjugation>
+			<conjugation number="plural" person="3">propongan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">propusiera</conjugation>
+			<conjugation number="singular" person="2">propusieras</conjugation>
+			<conjugation number="singular" person="3">propusiera</conjugation>
+			<conjugation number="plural" person="1">propusiéramos</conjugation>
+			<conjugation number="plural" person="2">propusierais</conjugation>
+			<conjugation number="plural" person="3">propusieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">propusiese</conjugation>
+			<conjugation number="singular" person="2">propusieses</conjugation>
+			<conjugation number="singular" person="3">propusiese</conjugation>
+			<conjugation number="plural" person="1">propusiésemos</conjugation>
+			<conjugation number="plural" person="2">propusieseis</conjugation>
+			<conjugation number="plural" person="3">propusiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">propusiere</conjugation>
+			<conjugation number="singular" person="2">propusieres</conjugation>
+			<conjugation number="singular" person="3">propusiere</conjugation>
+			<conjugation number="plural" person="1">propusiéremos</conjugation>
+			<conjugation number="plural" person="2">propusiereis</conjugation>
+			<conjugation number="plural" person="3">propusieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">propón</conjugation>
+			<conjugation number="singular" person="3">proponga</conjugation>
+			<conjugation number="plural" person="1">propongamos</conjugation>
+			<conjugation number="plural" person="3">propongan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">propongas</conjugation>
+			<conjugation number="singular" person="3">proponga</conjugation>
+			<conjugation number="plural" person="1">propongamos</conjugation>
+			<conjugation number="plural" person="2">propongáis</conjugation>
+			<conjugation number="plural" person="3">propongan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">propondría</conjugation>
+			<conjugation number="singular" person="2">propondrías</conjugation>
+			<conjugation number="singular" person="3">propondría</conjugation>
+			<conjugation number="plural" person="1">propondríamos</conjugation>
+			<conjugation number="plural" person="2">propondríais</conjugation>
+			<conjugation number="plural" person="3">propondrían</conjugation>
+		</tense>
+	</mood>
+</verb>

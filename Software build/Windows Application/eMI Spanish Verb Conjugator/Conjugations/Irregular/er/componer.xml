@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">componer</form>
+	<form type="past-participle">compuesto</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">compongo</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">compuse</conjugation>
+			<conjugation number="singular" person="2">compusiste</conjugation>
+			<conjugation number="singular" person="3">compuso</conjugation>
+			<conjugation number="plural" person="1">compusimos</conjugation>
+			<conjugation number="plural" person="2">compusisteis</conjugation>
+			<conjugation number="plural" person="3">compusieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">compondré</conjugation>
+			<conjugation number="singular" person="2">compondrás</conjugation>
+			<conjugation number="singular" person="3">compondrá</conjugation>
+			<conjugation number="plural" person="1">compondremos</conjugation>
+			<conjugation number="plural" person="2">compondréis</conjugation>
+			<conjugation number="plural" person="3">compondrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">componga</conjugation>
+			<conjugation number="singular" person="2">compongas</conjugation>
+			<conjugation number="singular" person="3">componga</conjugation>
+			<conjugation number="plural" person="1">compongamos</conjugation>
+			<conjugation number="plural" person="2">compongáis</conjugation>
+			<conjugation number="plural" person="3">compongan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">compusiera</conjugation>
+			<conjugation number="singular" person="2">compusieras</conjugation>
+			<conjugation number="singular" person="3">compusiera</conjugation>
+			<conjugation number="plural" person="1">compusiéramos</conjugation>
+			<conjugation number="plural" person="2">compusierais</conjugation>
+			<conjugation number="plural" person="3">compusieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">compusiese</conjugation>
+			<conjugation number="singular" person="2">compusieses</conjugation>
+			<conjugation number="singular" person="3">compusiese</conjugation>
+			<conjugation number="plural" person="1">compusiésemos</conjugation>
+			<conjugation number="plural" person="2">compusieseis</conjugation>
+			<conjugation number="plural" person="3">compusiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">compusiere</conjugation>
+			<conjugation number="singular" person="2">compusieres</conjugation>
+			<conjugation number="singular" person="3">compusiere</conjugation>
+			<conjugation number="plural" person="1">compusiéremos</conjugation>
+			<conjugation number="plural" person="2">compusiereis</conjugation>
+			<conjugation number="plural" person="3">compusieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">compón</conjugation>
+			<conjugation number="singular" person="3">componga</conjugation>
+			<conjugation number="plural" person="1">compongamos</conjugation>
+			<conjugation number="plural" person="3">compongan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">compongas</conjugation>
+			<conjugation number="singular" person="3">componga</conjugation>
+			<conjugation number="plural" person="1">compongamos</conjugation>
+			<conjugation number="plural" person="2">compongáis</conjugation>
+			<conjugation number="plural" person="3">compongan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">compondría</conjugation>
+			<conjugation number="singular" person="2">compondrías</conjugation>
+			<conjugation number="singular" person="3">compondría</conjugation>
+			<conjugation number="plural" person="1">compondríamos</conjugation>
+			<conjugation number="plural" person="2">compondríais</conjugation>
+			<conjugation number="plural" person="3">compondrían</conjugation>
+		</tense>
+	</mood>
+</verb>

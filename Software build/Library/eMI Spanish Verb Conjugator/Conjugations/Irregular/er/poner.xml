@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">poner</form>
+	<form type="past-participle">puesto</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">pongo</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">puse</conjugation>
+			<conjugation number="singular" person="2">pusiste</conjugation>
+			<conjugation number="singular" person="3">puso</conjugation>
+			<conjugation number="plural" person="1">pusimos</conjugation>
+			<conjugation number="plural" person="2">pusisteis</conjugation>
+			<conjugation number="plural" person="3">pusieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">pondré</conjugation>
+			<conjugation number="singular" person="2">pondrás</conjugation>
+			<conjugation number="singular" person="3">pondrá</conjugation>
+			<conjugation number="plural" person="1">pondremos</conjugation>
+			<conjugation number="plural" person="2">pondréis</conjugation>
+			<conjugation number="plural" person="3">pondrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">ponga</conjugation>
+			<conjugation number="singular" person="2">pongas</conjugation>
+			<conjugation number="singular" person="3">ponga</conjugation>
+			<conjugation number="plural" person="1">pongamos</conjugation>
+			<conjugation number="plural" person="2">pongáis</conjugation>
+			<conjugation number="plural" person="3">pongan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">pusiera</conjugation>
+			<conjugation number="singular" person="2">pusieras</conjugation>
+			<conjugation number="singular" person="3">pusiera</conjugation>
+			<conjugation number="plural" person="1">pusiéramos</conjugation>
+			<conjugation number="plural" person="2">pusierais</conjugation>
+			<conjugation number="plural" person="3">pusieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">pusiese</conjugation>
+			<conjugation number="singular" person="2">pusieses</conjugation>
+			<conjugation number="singular" person="3">pusiese</conjugation>
+			<conjugation number="plural" person="1">pusiésemos</conjugation>
+			<conjugation number="plural" person="2">pusieseis</conjugation>
+			<conjugation number="plural" person="3">pusiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">pusiere</conjugation>
+			<conjugation number="singular" person="2">pusieres</conjugation>
+			<conjugation number="singular" person="3">pusiere</conjugation>
+			<conjugation number="plural" person="1">pusiéremos</conjugation>
+			<conjugation number="plural" person="2">pusiereis</conjugation>
+			<conjugation number="plural" person="3">pusieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">pon</conjugation>
+			<conjugation number="singular" person="3">ponga</conjugation>
+			<conjugation number="plural" person="1">pongamos</conjugation>
+			<conjugation number="plural" person="3">pongan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">pongas</conjugation>
+			<conjugation number="singular" person="3">ponga</conjugation>
+			<conjugation number="plural" person="1">pongamos</conjugation>
+			<conjugation number="plural" person="2">pongáis</conjugation>
+			<conjugation number="plural" person="3">pongan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">pondría</conjugation>
+			<conjugation number="singular" person="2">pondrías</conjugation>
+			<conjugation number="singular" person="3">pondría</conjugation>
+			<conjugation number="plural" person="1">pondríamos</conjugation>
+			<conjugation number="plural" person="2">pondríais</conjugation>
+			<conjugation number="plural" person="3">pondrían</conjugation>
+		</tense>
+	</mood>
+</verb>

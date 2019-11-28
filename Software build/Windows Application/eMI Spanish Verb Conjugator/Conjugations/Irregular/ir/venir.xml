@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">venir</form>
+	<form type="gerund">viniendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">vengo</conjugation>
+			<conjugation number="singular" person="2">vienes</conjugation>
+			<conjugation number="singular" person="3">viene</conjugation>
+			<conjugation number="plural" person="3">vienen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">vine</conjugation>
+			<conjugation number="singular" person="2">viniste</conjugation>
+			<conjugation number="singular" person="3">vino</conjugation>
+			<conjugation number="plural" person="1">vinimos</conjugation>
+			<conjugation number="plural" person="2">vinisteis</conjugation>
+			<conjugation number="plural" person="3">vinieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">vendré</conjugation>
+			<conjugation number="singular" person="2">vendrás</conjugation>
+			<conjugation number="singular" person="3">vendrá</conjugation>
+			<conjugation number="plural" person="1">vendremos</conjugation>
+			<conjugation number="plural" person="2">vendréis</conjugation>
+			<conjugation number="plural" person="3">vendrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">venga</conjugation>
+			<conjugation number="singular" person="2">vengas</conjugation>
+			<conjugation number="singular" person="3">venga</conjugation>
+			<conjugation number="plural" person="1">vengamos</conjugation>
+			<conjugation number="plural" person="2">vengáis</conjugation>
+			<conjugation number="plural" person="3">vengan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">viniera</conjugation>
+			<conjugation number="singular" person="2">vinieras</conjugation>
+			<conjugation number="singular" person="3">viniera</conjugation>
+			<conjugation number="plural" person="1">viniéramos</conjugation>
+			<conjugation number="plural" person="2">vinierais</conjugation>
+			<conjugation number="plural" person="3">vinieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">viniese</conjugation>
+			<conjugation number="singular" person="2">vinieses</conjugation>
+			<conjugation number="singular" person="3">viniese</conjugation>
+			<conjugation number="plural" person="1">viniésemos</conjugation>
+			<conjugation number="plural" person="2">vinieseis</conjugation>
+			<conjugation number="plural" person="3">viniesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">viniere</conjugation>
+			<conjugation number="singular" person="2">vinieres</conjugation>
+			<conjugation number="singular" person="3">viniere</conjugation>
+			<conjugation number="plural" person="1">viniéremos</conjugation>
+			<conjugation number="plural" person="2">viniereis</conjugation>
+			<conjugation number="plural" person="3">vinieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">ven</conjugation>
+			<conjugation number="singular" person="3">venga</conjugation>
+			<conjugation number="plural" person="1">vengamos</conjugation>
+			<conjugation number="plural" person="3">vengan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">vengas</conjugation>
+			<conjugation number="singular" person="3">venga</conjugation>
+			<conjugation number="plural" person="1">vengamos</conjugation>
+			<conjugation number="plural" person="2">vengáis</conjugation>
+			<conjugation number="plural" person="3">vengan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">vendría</conjugation>
+			<conjugation number="singular" person="2">vendrías</conjugation>
+			<conjugation number="singular" person="3">vendría</conjugation>
+			<conjugation number="plural" person="1">vendríamos</conjugation>
+			<conjugation number="plural" person="2">vendríais</conjugation>
+			<conjugation number="plural" person="3">vendrían</conjugation>
+		</tense>
+	</mood>
+</verb>

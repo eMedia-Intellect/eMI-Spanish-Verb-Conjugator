@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">pedir</form>
+	<form type="gerund">pidiendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">pido</conjugation>
+			<conjugation number="singular" person="2">pides</conjugation>
+			<conjugation number="singular" person="3">pide</conjugation>
+			<conjugation number="plural" person="3">piden</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">pidió</conjugation>
+			<conjugation number="plural" person="3">pidieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">pida</conjugation>
+			<conjugation number="singular" person="2">pidas</conjugation>
+			<conjugation number="singular" person="3">pida</conjugation>
+			<conjugation number="plural" person="1">pidamos</conjugation>
+			<conjugation number="plural" person="2">pidáis</conjugation>
+			<conjugation number="plural" person="3">pidan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">pidiera</conjugation>
+			<conjugation number="singular" person="2">pidieras</conjugation>
+			<conjugation number="singular" person="3">pidiera</conjugation>
+			<conjugation number="plural" person="1">pidiéramos</conjugation>
+			<conjugation number="plural" person="2">pidierais</conjugation>
+			<conjugation number="plural" person="3">pidieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">pidiese</conjugation>
+			<conjugation number="singular" person="2">pidieses</conjugation>
+			<conjugation number="singular" person="3">pidiese</conjugation>
+			<conjugation number="plural" person="1">pidiésemos</conjugation>
+			<conjugation number="plural" person="2">pidieseis</conjugation>
+			<conjugation number="plural" person="3">pidiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">pidiere</conjugation>
+			<conjugation number="singular" person="2">pidieres</conjugation>
+			<conjugation number="singular" person="3">pidiere</conjugation>
+			<conjugation number="plural" person="1">pidiéremos</conjugation>
+			<conjugation number="plural" person="2">pidiereis</conjugation>
+			<conjugation number="plural" person="3">pidieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">pide</conjugation>
+			<conjugation number="singular" person="3">pida</conjugation>
+			<conjugation number="plural" person="1">pidamos</conjugation>
+			<conjugation number="plural" person="3">pidan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">pidas</conjugation>
+			<conjugation number="singular" person="3">pida</conjugation>
+			<conjugation number="plural" person="1">pidamos</conjugation>
+			<conjugation number="plural" person="2">pidáis</conjugation>
+			<conjugation number="plural" person="3">pidan</conjugation>
+		</tense>
+	</mood>
+</verb>

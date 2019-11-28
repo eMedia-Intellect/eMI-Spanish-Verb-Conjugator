@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">repetir</form>
+	<form type="gerund">repitiendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">repito</conjugation>
+			<conjugation number="singular" person="2">repites</conjugation>
+			<conjugation number="singular" person="3">repite</conjugation>
+			<conjugation number="plural" person="3">repiten</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">repitió</conjugation>
+			<conjugation number="plural" person="3">repitieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">repita</conjugation>
+			<conjugation number="singular" person="2">repitas</conjugation>
+			<conjugation number="singular" person="3">repita</conjugation>
+			<conjugation number="plural" person="1">repitamos</conjugation>
+			<conjugation number="plural" person="2">repitáis</conjugation>
+			<conjugation number="plural" person="3">repitan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">repitiera</conjugation>
+			<conjugation number="singular" person="2">repitieras</conjugation>
+			<conjugation number="singular" person="3">repitiera</conjugation>
+			<conjugation number="plural" person="1">repitiéramos</conjugation>
+			<conjugation number="plural" person="2">repitierais</conjugation>
+			<conjugation number="plural" person="3">repitieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">repitiese</conjugation>
+			<conjugation number="singular" person="2">repitieses</conjugation>
+			<conjugation number="singular" person="3">repitiese</conjugation>
+			<conjugation number="plural" person="1">repitiésemos</conjugation>
+			<conjugation number="plural" person="2">repitieseis</conjugation>
+			<conjugation number="plural" person="3">repitiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">repitiere</conjugation>
+			<conjugation number="singular" person="2">repitieres</conjugation>
+			<conjugation number="singular" person="3">repitiere</conjugation>
+			<conjugation number="plural" person="1">repitiéremos</conjugation>
+			<conjugation number="plural" person="2">repitiereis</conjugation>
+			<conjugation number="plural" person="3">repitieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">repite</conjugation>
+			<conjugation number="singular" person="3">repita</conjugation>
+			<conjugation number="plural" person="1">repitamos</conjugation>
+			<conjugation number="plural" person="3">repitan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">repitas</conjugation>
+			<conjugation number="singular" person="3">repita</conjugation>
+			<conjugation number="plural" person="1">repitamos</conjugation>
+			<conjugation number="plural" person="2">repitáis</conjugation>
+			<conjugation number="plural" person="3">repitan</conjugation>
+		</tense>
+	</mood>
+</verb>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">morir</form>
+	<form type="gerund">muriendo</form>
+	<form type="past-participle">muerto</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">muero</conjugation>
+			<conjugation number="singular" person="2">mueres</conjugation>
+			<conjugation number="singular" person="3">muere</conjugation>
+			<conjugation number="plural" person="3">mueren</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">murió</conjugation>
+			<conjugation number="plural" person="3">murieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">muera</conjugation>
+			<conjugation number="singular" person="2">mueras</conjugation>
+			<conjugation number="singular" person="3">muera</conjugation>
+			<conjugation number="plural" person="1">muramos</conjugation>
+			<conjugation number="plural" person="2">muráis</conjugation>
+			<conjugation number="plural" person="3">mueran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">muriera</conjugation>
+			<conjugation number="singular" person="2">murieras</conjugation>
+			<conjugation number="singular" person="3">muriera</conjugation>
+			<conjugation number="plural" person="1">muriéramos</conjugation>
+			<conjugation number="plural" person="2">murierais</conjugation>
+			<conjugation number="plural" person="3">murieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">muriese</conjugation>
+			<conjugation number="singular" person="2">murieses</conjugation>
+			<conjugation number="singular" person="3">muriese</conjugation>
+			<conjugation number="plural" person="1">muriésemos</conjugation>
+			<conjugation number="plural" person="2">murieseis</conjugation>
+			<conjugation number="plural" person="3">muriesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">muriere</conjugation>
+			<conjugation number="singular" person="2">murieres</conjugation>
+			<conjugation number="singular" person="3">muriere</conjugation>
+			<conjugation number="plural" person="1">muriéremos</conjugation>
+			<conjugation number="plural" person="2">muriereis</conjugation>
+			<conjugation number="plural" person="3">murieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">muere</conjugation>
+			<conjugation number="singular" person="3">muera</conjugation>
+			<conjugation number="plural" person="1">muramos</conjugation>
+			<conjugation number="plural" person="3">mueran</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">mueras</conjugation>
+			<conjugation number="singular" person="3">muera</conjugation>
+			<conjugation number="plural" person="1">muramos</conjugation>
+			<conjugation number="plural" person="2">muráis</conjugation>
+			<conjugation number="plural" person="3">mueran</conjugation>
+		</tense>
+	</mood>
+</verb>

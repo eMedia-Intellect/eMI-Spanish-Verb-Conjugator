@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">bendecir</form>
+	<form type="gerund">bendiciendo</form>
+	<form type="past-participle">bendecido, bendito</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">bendigo</conjugation>
+			<conjugation number="singular" person="2">bendices</conjugation>
+			<conjugation number="singular" person="3">bendice</conjugation>
+			<conjugation number="plural" person="3">bendicen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">bendije</conjugation>
+			<conjugation number="singular" person="2">bendijiste</conjugation>
+			<conjugation number="singular" person="3">bendijo</conjugation>
+			<conjugation number="plural" person="1">bendijimos</conjugation>
+			<conjugation number="plural" person="2">bendijisteis</conjugation>
+			<conjugation number="plural" person="3">bendijeron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">bendiga</conjugation>
+			<conjugation number="singular" person="2">bendigas</conjugation>
+			<conjugation number="singular" person="3">bendiga</conjugation>
+			<conjugation number="plural" person="1">bendigamos</conjugation>
+			<conjugation number="plural" person="2">bendigáis</conjugation>
+			<conjugation number="plural" person="3">bendigan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">bendijera</conjugation>
+			<conjugation number="singular" person="2">bendijeras</conjugation>
+			<conjugation number="singular" person="3">bendijera</conjugation>
+			<conjugation number="plural" person="1">bendijéramos</conjugation>
+			<conjugation number="plural" person="2">bendijerais</conjugation>
+			<conjugation number="plural" person="3">bendijeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">bendijese</conjugation>
+			<conjugation number="singular" person="2">bendijeses</conjugation>
+			<conjugation number="singular" person="3">bendijese</conjugation>
+			<conjugation number="plural" person="1">bendijésemos</conjugation>
+			<conjugation number="plural" person="2">bendijeseis</conjugation>
+			<conjugation number="plural" person="3">bendijesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">bendijere</conjugation>
+			<conjugation number="singular" person="2">bendijeres</conjugation>
+			<conjugation number="singular" person="3">bendijere</conjugation>
+			<conjugation number="plural" person="1">bendijéremos</conjugation>
+			<conjugation number="plural" person="2">bendijereis</conjugation>
+			<conjugation number="plural" person="3">bendijeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">bendice</conjugation>
+			<conjugation number="singular" person="3">bendiga</conjugation>
+			<conjugation number="plural" person="1">bendigamos</conjugation>
+			<conjugation number="plural" person="3">bendigan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">bendigas</conjugation>
+			<conjugation number="singular" person="3">bendiga</conjugation>
+			<conjugation number="plural" person="1">bendigamos</conjugation>
+			<conjugation number="plural" person="2">bendigáis</conjugation>
+			<conjugation number="plural" person="3">bendigan</conjugation>
+		</tense>
+	</mood>
+</verb>

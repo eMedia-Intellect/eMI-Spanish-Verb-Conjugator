@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">preferir</form>
+	<form type="gerund">prefiriendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">prefiero</conjugation>
+			<conjugation number="singular" person="2">prefieres</conjugation>
+			<conjugation number="singular" person="3">prefiere</conjugation>
+			<conjugation number="plural" person="3">prefieren</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">prefirió</conjugation>
+			<conjugation number="plural" person="3">prefirieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">prefiera</conjugation>
+			<conjugation number="singular" person="2">prefieras</conjugation>
+			<conjugation number="singular" person="3">prefiera</conjugation>
+			<conjugation number="plural" person="1">prefiramos</conjugation>
+			<conjugation number="plural" person="2">prefiráis</conjugation>
+			<conjugation number="plural" person="3">prefieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">prefiriera</conjugation>
+			<conjugation number="singular" person="2">prefirieras</conjugation>
+			<conjugation number="singular" person="3">prefiriera</conjugation>
+			<conjugation number="plural" person="1">prefiriéramos</conjugation>
+			<conjugation number="plural" person="2">prefirierais</conjugation>
+			<conjugation number="plural" person="3">prefirieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">prefiriese</conjugation>
+			<conjugation number="singular" person="2">prefirieses</conjugation>
+			<conjugation number="singular" person="3">prefiriese</conjugation>
+			<conjugation number="plural" person="1">prefiriésemos</conjugation>
+			<conjugation number="plural" person="2">prefirieseis</conjugation>
+			<conjugation number="plural" person="3">prefiriesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">prefiriere</conjugation>
+			<conjugation number="singular" person="2">prefirieres</conjugation>
+			<conjugation number="singular" person="3">prefiriere</conjugation>
+			<conjugation number="plural" person="1">prefiriéremos</conjugation>
+			<conjugation number="plural" person="2">prefiriereis</conjugation>
+			<conjugation number="plural" person="3">prefirieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">prefiere</conjugation>
+			<conjugation number="singular" person="3">prefiera</conjugation>
+			<conjugation number="plural" person="1">prefiramos</conjugation>
+			<conjugation number="plural" person="3">prefieran</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">prefieras</conjugation>
+			<conjugation number="singular" person="3">prefiera</conjugation>
+			<conjugation number="plural" person="1">prefiramos</conjugation>
+			<conjugation number="plural" person="2">prefiráis</conjugation>
+			<conjugation number="plural" person="3">prefieran</conjugation>
+		</tense>
+	</mood>
+</verb>

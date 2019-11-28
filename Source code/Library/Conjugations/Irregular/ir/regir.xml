@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">regir</form>
+	<form type="gerund">rigiendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">rijo</conjugation>
+			<conjugation number="singular" person="2">riges</conjugation>
+			<conjugation number="singular" person="3">rige</conjugation>
+			<conjugation number="plural" person="3">rigen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">rigió</conjugation>
+			<conjugation number="plural" person="3">rigieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">rija</conjugation>
+			<conjugation number="singular" person="2">rijas</conjugation>
+			<conjugation number="singular" person="3">rija</conjugation>
+			<conjugation number="plural" person="1">rijamos</conjugation>
+			<conjugation number="plural" person="2">rijáis</conjugation>
+			<conjugation number="plural" person="3">rijan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">rigiera</conjugation>
+			<conjugation number="singular" person="2">rigieras</conjugation>
+			<conjugation number="singular" person="3">rigiera</conjugation>
+			<conjugation number="plural" person="1">rigiéramos</conjugation>
+			<conjugation number="plural" person="2">rigierais</conjugation>
+			<conjugation number="plural" person="3">rigieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">rigiese</conjugation>
+			<conjugation number="singular" person="2">rigieses</conjugation>
+			<conjugation number="singular" person="3">rigiese</conjugation>
+			<conjugation number="plural" person="1">rigiésemos</conjugation>
+			<conjugation number="plural" person="2">rigieseis</conjugation>
+			<conjugation number="plural" person="3">rigiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">rigiere</conjugation>
+			<conjugation number="singular" person="2">rigieres</conjugation>
+			<conjugation number="singular" person="3">rigiere</conjugation>
+			<conjugation number="plural" person="1">rigiéremos</conjugation>
+			<conjugation number="plural" person="2">rigiereis</conjugation>
+			<conjugation number="plural" person="3">rigieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">rige</conjugation>
+			<conjugation number="singular" person="3">rija</conjugation>
+			<conjugation number="plural" person="1">rijamos</conjugation>
+			<conjugation number="plural" person="3">rijan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">rijas</conjugation>
+			<conjugation number="singular" person="3">rija</conjugation>
+			<conjugation number="plural" person="1">rijamos</conjugation>
+			<conjugation number="plural" person="2">rijáis</conjugation>
+			<conjugation number="plural" person="3">rijan</conjugation>
+		</tense>
+	</mood>
+</verb>

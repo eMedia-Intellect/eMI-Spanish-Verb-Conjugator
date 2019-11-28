@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">elegir</form>
+	<form type="gerund">eligiendo</form>
+	<form type="past-participle">elegido, electo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">elijo</conjugation>
+			<conjugation number="singular" person="2">eliges</conjugation>
+			<conjugation number="singular" person="3">elige</conjugation>
+			<conjugation number="plural" person="3">eligen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">eligió</conjugation>
+			<conjugation number="plural" person="3">eligieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">elija</conjugation>
+			<conjugation number="singular" person="2">elijas</conjugation>
+			<conjugation number="singular" person="3">elija</conjugation>
+			<conjugation number="plural" person="1">elijamos</conjugation>
+			<conjugation number="plural" person="2">elijáis</conjugation>
+			<conjugation number="plural" person="3">elijan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">eligiera</conjugation>
+			<conjugation number="singular" person="2">eligieras</conjugation>
+			<conjugation number="singular" person="3">eligiera</conjugation>
+			<conjugation number="plural" person="1">eligiéramos</conjugation>
+			<conjugation number="plural" person="2">eligierais</conjugation>
+			<conjugation number="plural" person="3">eligieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">eligiese</conjugation>
+			<conjugation number="singular" person="2">eligieses</conjugation>
+			<conjugation number="singular" person="3">eligiese</conjugation>
+			<conjugation number="plural" person="1">eligiésemos</conjugation>
+			<conjugation number="plural" person="2">eligieseis</conjugation>
+			<conjugation number="plural" person="3">eligiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">eligiere</conjugation>
+			<conjugation number="singular" person="2">eligieres</conjugation>
+			<conjugation number="singular" person="3">eligiere</conjugation>
+			<conjugation number="plural" person="1">eligiéremos</conjugation>
+			<conjugation number="plural" person="2">eligiereis</conjugation>
+			<conjugation number="plural" person="3">eligieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">elige</conjugation>
+			<conjugation number="singular" person="3">elija</conjugation>
+			<conjugation number="plural" person="1">elijamos</conjugation>
+			<conjugation number="plural" person="3">elijan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">elijas</conjugation>
+			<conjugation number="singular" person="3">elija</conjugation>
+			<conjugation number="plural" person="1">elijamos</conjugation>
+			<conjugation number="plural" person="2">elijáis</conjugation>
+			<conjugation number="plural" person="3">elijan</conjugation>
+		</tense>
+	</mood>
+</verb>

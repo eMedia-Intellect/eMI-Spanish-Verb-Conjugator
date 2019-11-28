@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">saber</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">sé</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">supe</conjugation>
+			<conjugation number="singular" person="2">supiste</conjugation>
+			<conjugation number="singular" person="3">supo</conjugation>
+			<conjugation number="plural" person="1">supimos</conjugation>
+			<conjugation number="plural" person="2">supisteis</conjugation>
+			<conjugation number="plural" person="3">supieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">sabré</conjugation>
+			<conjugation number="singular" person="2">sabrás</conjugation>
+			<conjugation number="singular" person="3">sabrá</conjugation>
+			<conjugation number="plural" person="1">sabremos</conjugation>
+			<conjugation number="plural" person="2">sabréis</conjugation>
+			<conjugation number="plural" person="3">sabrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">sepa</conjugation>
+			<conjugation number="singular" person="2">sepas</conjugation>
+			<conjugation number="singular" person="3">sepa</conjugation>
+			<conjugation number="plural" person="1">sepamos</conjugation>
+			<conjugation number="plural" person="2">sepáis</conjugation>
+			<conjugation number="plural" person="3">sepan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">supiera</conjugation>
+			<conjugation number="singular" person="2">supieras</conjugation>
+			<conjugation number="singular" person="3">supiera</conjugation>
+			<conjugation number="plural" person="1">supiéramos</conjugation>
+			<conjugation number="plural" person="2">supierais</conjugation>
+			<conjugation number="plural" person="3">supieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">supiese</conjugation>
+			<conjugation number="singular" person="2">supieses</conjugation>
+			<conjugation number="singular" person="3">supiese</conjugation>
+			<conjugation number="plural" person="1">supiésemos</conjugation>
+			<conjugation number="plural" person="2">supieseis</conjugation>
+			<conjugation number="plural" person="3">supiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">supiere</conjugation>
+			<conjugation number="singular" person="2">supieres</conjugation>
+			<conjugation number="singular" person="3">supiere</conjugation>
+			<conjugation number="plural" person="1">supiéremos</conjugation>
+			<conjugation number="plural" person="2">supiereis</conjugation>
+			<conjugation number="plural" person="3">supieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="3">sepa</conjugation>
+			<conjugation number="plural" person="1">sepamos</conjugation>
+			<conjugation number="plural" person="3">sepan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">sepas</conjugation>
+			<conjugation number="singular" person="3">sepa</conjugation>
+			<conjugation number="plural" person="1">sepamos</conjugation>
+			<conjugation number="plural" person="2">sepáis</conjugation>
+			<conjugation number="plural" person="3">sepan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">sabría</conjugation>
+			<conjugation number="singular" person="2">sabrías</conjugation>
+			<conjugation number="singular" person="3">sabría</conjugation>
+			<conjugation number="plural" person="1">sabríamos</conjugation>
+			<conjugation number="plural" person="2">sabríais</conjugation>
+			<conjugation number="plural" person="3">sabrían</conjugation>
+		</tense>
+	</mood>
+</verb>

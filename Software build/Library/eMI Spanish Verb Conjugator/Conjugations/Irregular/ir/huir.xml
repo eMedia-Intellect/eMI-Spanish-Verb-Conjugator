@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">huir</form>
+	<form type="gerund">huyendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">huyo</conjugation>
+			<conjugation number="singular" person="2">huyes</conjugation>
+			<conjugation number="singular" person="3">huye</conjugation>
+			<conjugation number="plural" person="3">huyen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">huyó</conjugation>
+			<conjugation number="plural" person="3">huyeron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">huya</conjugation>
+			<conjugation number="singular" person="2">huyas</conjugation>
+			<conjugation number="singular" person="3">huya</conjugation>
+			<conjugation number="plural" person="1">huyamos</conjugation>
+			<conjugation number="plural" person="2">huyáis</conjugation>
+			<conjugation number="plural" person="3">huyan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">huyera</conjugation>
+			<conjugation number="singular" person="2">huyeras</conjugation>
+			<conjugation number="singular" person="3">huyera</conjugation>
+			<conjugation number="plural" person="1">huyéramos</conjugation>
+			<conjugation number="plural" person="2">huyerais</conjugation>
+			<conjugation number="plural" person="3">huyeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">huyese</conjugation>
+			<conjugation number="singular" person="2">huyeses</conjugation>
+			<conjugation number="singular" person="3">huyese</conjugation>
+			<conjugation number="plural" person="1">huyésemos</conjugation>
+			<conjugation number="plural" person="2">huyeseis</conjugation>
+			<conjugation number="plural" person="3">huyesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">huyere</conjugation>
+			<conjugation number="singular" person="2">huyeres</conjugation>
+			<conjugation number="singular" person="3">huyere</conjugation>
+			<conjugation number="plural" person="1">huyéremos</conjugation>
+			<conjugation number="plural" person="2">huyereis</conjugation>
+			<conjugation number="plural" person="3">huyeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">huye</conjugation>
+			<conjugation number="singular" person="3">huya</conjugation>
+			<conjugation number="plural" person="1">huyamos</conjugation>
+			<conjugation number="plural" person="3">huyan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">huyas</conjugation>
+			<conjugation number="singular" person="3">huya</conjugation>
+			<conjugation number="plural" person="1">huyamos</conjugation>
+			<conjugation number="plural" person="2">huyáis</conjugation>
+			<conjugation number="plural" person="3">huyan</conjugation>
+		</tense>
+	</mood>
+</verb>

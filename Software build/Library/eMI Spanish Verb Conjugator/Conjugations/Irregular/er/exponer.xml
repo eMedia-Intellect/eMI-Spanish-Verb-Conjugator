@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">exponer</form>
+	<form type="past-participle">expuesto</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">expongo</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">expuse</conjugation>
+			<conjugation number="singular" person="2">expusiste</conjugation>
+			<conjugation number="singular" person="3">expuso</conjugation>
+			<conjugation number="plural" person="1">expusimos</conjugation>
+			<conjugation number="plural" person="2">expusisteis</conjugation>
+			<conjugation number="plural" person="3">expusieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">expondré</conjugation>
+			<conjugation number="singular" person="2">expondrás</conjugation>
+			<conjugation number="singular" person="3">expondrá</conjugation>
+			<conjugation number="plural" person="1">expondremos</conjugation>
+			<conjugation number="plural" person="2">expondréis</conjugation>
+			<conjugation number="plural" person="3">expondrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">exponga</conjugation>
+			<conjugation number="singular" person="2">expongas</conjugation>
+			<conjugation number="singular" person="3">exponga</conjugation>
+			<conjugation number="plural" person="1">expongamos</conjugation>
+			<conjugation number="plural" person="2">expongáis</conjugation>
+			<conjugation number="plural" person="3">expongan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">expusiera</conjugation>
+			<conjugation number="singular" person="2">expusieras</conjugation>
+			<conjugation number="singular" person="3">expusiera</conjugation>
+			<conjugation number="plural" person="1">expusiéramos</conjugation>
+			<conjugation number="plural" person="2">expusierais</conjugation>
+			<conjugation number="plural" person="3">expusieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">expusiese</conjugation>
+			<conjugation number="singular" person="2">expusieses</conjugation>
+			<conjugation number="singular" person="3">expusiese</conjugation>
+			<conjugation number="plural" person="1">expusiésemos</conjugation>
+			<conjugation number="plural" person="2">expusieseis</conjugation>
+			<conjugation number="plural" person="3">expusiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">expusiere</conjugation>
+			<conjugation number="singular" person="2">expusieres</conjugation>
+			<conjugation number="singular" person="3">expusiere</conjugation>
+			<conjugation number="plural" person="1">expusiéremos</conjugation>
+			<conjugation number="plural" person="2">expusiereis</conjugation>
+			<conjugation number="plural" person="3">expusieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">expón</conjugation>
+			<conjugation number="singular" person="3">exponga</conjugation>
+			<conjugation number="plural" person="1">expongamos</conjugation>
+			<conjugation number="plural" person="3">expongan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">expongas</conjugation>
+			<conjugation number="singular" person="3">exponga</conjugation>
+			<conjugation number="plural" person="1">expongamos</conjugation>
+			<conjugation number="plural" person="2">expongáis</conjugation>
+			<conjugation number="plural" person="3">expongan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">expondría</conjugation>
+			<conjugation number="singular" person="2">expondrías</conjugation>
+			<conjugation number="singular" person="3">expondría</conjugation>
+			<conjugation number="plural" person="1">expondríamos</conjugation>
+			<conjugation number="plural" person="2">expondríais</conjugation>
+			<conjugation number="plural" person="3">expondrían</conjugation>
+		</tense>
+	</mood>
+</verb>

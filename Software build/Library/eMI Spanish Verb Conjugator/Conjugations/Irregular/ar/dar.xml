@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">dar</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">doy</conjugation>
+			<conjugation number="plural" person="2">dais</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">di</conjugation>
+			<conjugation number="singular" person="2">diste</conjugation>
+			<conjugation number="singular" person="3">dio</conjugation>
+			<conjugation number="plural" person="1">dimos</conjugation>
+			<conjugation number="plural" person="2">disteis</conjugation>
+			<conjugation number="plural" person="3">dieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">dé</conjugation>
+			<conjugation number="singular" person="3">dé</conjugation>
+			<conjugation number="plural" person="2">deis</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">diera</conjugation>
+			<conjugation number="singular" person="2">dieras</conjugation>
+			<conjugation number="singular" person="3">diera</conjugation>
+			<conjugation number="plural" person="1">diéramos</conjugation>
+			<conjugation number="plural" person="2">dierais</conjugation>
+			<conjugation number="plural" person="3">dieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">diese</conjugation>
+			<conjugation number="singular" person="2">dieses</conjugation>
+			<conjugation number="singular" person="3">diese</conjugation>
+			<conjugation number="plural" person="1">diésemos</conjugation>
+			<conjugation number="plural" person="2">dieseis</conjugation>
+			<conjugation number="plural" person="3">diesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">diere</conjugation>
+			<conjugation number="singular" person="2">dieres</conjugation>
+			<conjugation number="singular" person="3">diere</conjugation>
+			<conjugation number="plural" person="1">diéremos</conjugation>
+			<conjugation number="plural" person="2">diereis</conjugation>
+			<conjugation number="plural" person="3">dieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="3">dé</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="3">dé</conjugation>
+			<conjugation number="plural" person="2">deis</conjugation>
+		</tense>
+	</mood>
+</verb>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">reír</form>
+	<form type="gerund">riendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">río</conjugation>
+			<conjugation number="singular" person="2">ríes</conjugation>
+			<conjugation number="singular" person="3">ríe</conjugation>
+			<conjugation number="plural" person="3">ríen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">rio</conjugation>
+			<conjugation number="plural" person="3">rieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">ría</conjugation>
+			<conjugation number="singular" person="2">rías</conjugation>
+			<conjugation number="singular" person="3">ría</conjugation>
+			<conjugation number="plural" person="1">riamos</conjugation>
+			<conjugation number="plural" person="2">riais</conjugation>
+			<conjugation number="plural" person="3">rían</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">riera</conjugation>
+			<conjugation number="singular" person="2">rieras</conjugation>
+			<conjugation number="singular" person="3">riera</conjugation>
+			<conjugation number="plural" person="1">riéramos</conjugation>
+			<conjugation number="plural" person="2">rierais</conjugation>
+			<conjugation number="plural" person="3">rieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">riese</conjugation>
+			<conjugation number="singular" person="2">rieses</conjugation>
+			<conjugation number="singular" person="3">riese</conjugation>
+			<conjugation number="plural" person="1">riésemos</conjugation>
+			<conjugation number="plural" person="2">rieseis</conjugation>
+			<conjugation number="plural" person="3">riesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">riere</conjugation>
+			<conjugation number="singular" person="2">rieres</conjugation>
+			<conjugation number="singular" person="3">riere</conjugation>
+			<conjugation number="plural" person="1">riéremos</conjugation>
+			<conjugation number="plural" person="2">riereis</conjugation>
+			<conjugation number="plural" person="3">rieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">ríe</conjugation>
+			<conjugation number="singular" person="3">ría</conjugation>
+			<conjugation number="plural" person="1">riamos</conjugation>
+			<conjugation number="plural" person="3">rían</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">rías</conjugation>
+			<conjugation number="singular" person="3">ría</conjugation>
+			<conjugation number="plural" person="1">riamos</conjugation>
+			<conjugation number="plural" person="2">riais</conjugation>
+			<conjugation number="plural" person="3">rían</conjugation>
+		</tense>
+	</mood>
+</verb>

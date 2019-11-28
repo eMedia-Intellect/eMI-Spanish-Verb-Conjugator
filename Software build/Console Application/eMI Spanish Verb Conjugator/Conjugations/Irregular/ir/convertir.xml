@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">convertir</form>
+	<form type="gerund">convirtiendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">convierto</conjugation>
+			<conjugation number="singular" person="2">conviertes</conjugation>
+			<conjugation number="singular" person="3">convierte</conjugation>
+			<conjugation number="plural" person="3">convierten</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">convirtió</conjugation>
+			<conjugation number="plural" person="3">convirtieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">convierta</conjugation>
+			<conjugation number="singular" person="2">conviertas</conjugation>
+			<conjugation number="singular" person="3">convierta</conjugation>
+			<conjugation number="plural" person="1">convirtamos</conjugation>
+			<conjugation number="plural" person="2">convirtáis</conjugation>
+			<conjugation number="plural" person="3">conviertan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">convirtiera</conjugation>
+			<conjugation number="singular" person="2">convirtieras</conjugation>
+			<conjugation number="singular" person="3">convirtiera</conjugation>
+			<conjugation number="plural" person="1">convirtiéramos</conjugation>
+			<conjugation number="plural" person="2">convirtierais</conjugation>
+			<conjugation number="plural" person="3">convirtieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">convirtiese</conjugation>
+			<conjugation number="singular" person="2">convirtieses</conjugation>
+			<conjugation number="singular" person="3">convirtiese</conjugation>
+			<conjugation number="plural" person="1">convirtiésemos</conjugation>
+			<conjugation number="plural" person="2">convirtieseis</conjugation>
+			<conjugation number="plural" person="3">convirtiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">convirtiere</conjugation>
+			<conjugation number="singular" person="2">convirtieres</conjugation>
+			<conjugation number="singular" person="3">convirtiere</conjugation>
+			<conjugation number="plural" person="1">convirtiéremos</conjugation>
+			<conjugation number="plural" person="2">convirtiereis</conjugation>
+			<conjugation number="plural" person="3">convirtieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">convierte</conjugation>
+			<conjugation number="singular" person="3">convierta</conjugation>
+			<conjugation number="plural" person="1">convirtamos</conjugation>
+			<conjugation number="plural" person="3">conviertan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">conviertas</conjugation>
+			<conjugation number="singular" person="3">convierta</conjugation>
+			<conjugation number="plural" person="1">convirtamos</conjugation>
+			<conjugation number="plural" person="2">convirtáis</conjugation>
+			<conjugation number="plural" person="3">conviertan</conjugation>
+		</tense>
+	</mood>
+</verb>

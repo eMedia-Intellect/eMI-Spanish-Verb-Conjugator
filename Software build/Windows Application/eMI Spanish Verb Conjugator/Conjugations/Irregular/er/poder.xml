@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">poder</form>
+	<form type="gerund">pudiendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">puedo</conjugation>
+			<conjugation number="singular" person="2">puedes</conjugation>
+			<conjugation number="singular" person="3">puede</conjugation>
+			<conjugation number="plural" person="3">pueden</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">pude</conjugation>
+			<conjugation number="singular" person="2">pudiste</conjugation>
+			<conjugation number="singular" person="3">pudo</conjugation>
+			<conjugation number="plural" person="1">pudimos</conjugation>
+			<conjugation number="plural" person="2">pudisteis</conjugation>
+			<conjugation number="plural" person="3">pudieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">podré</conjugation>
+			<conjugation number="singular" person="2">podrás</conjugation>
+			<conjugation number="singular" person="3">podrá</conjugation>
+			<conjugation number="plural" person="1">podremos</conjugation>
+			<conjugation number="plural" person="2">podréis</conjugation>
+			<conjugation number="plural" person="3">podrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">pueda</conjugation>
+			<conjugation number="singular" person="2">puedas</conjugation>
+			<conjugation number="singular" person="3">pueda</conjugation>
+			<conjugation number="plural" person="3">puedan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">pudiera</conjugation>
+			<conjugation number="singular" person="2">pudieras</conjugation>
+			<conjugation number="singular" person="3">pudiera</conjugation>
+			<conjugation number="plural" person="1">pudiéramos</conjugation>
+			<conjugation number="plural" person="2">pudierais</conjugation>
+			<conjugation number="plural" person="3">pudieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">pudiese</conjugation>
+			<conjugation number="singular" person="2">pudieses</conjugation>
+			<conjugation number="singular" person="3">pudiese</conjugation>
+			<conjugation number="plural" person="1">pudiésemos</conjugation>
+			<conjugation number="plural" person="2">pudieseis</conjugation>
+			<conjugation number="plural" person="3">pudiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">pudiere</conjugation>
+			<conjugation number="singular" person="2">pudieres</conjugation>
+			<conjugation number="singular" person="3">pudiere</conjugation>
+			<conjugation number="plural" person="1">pudiéremos</conjugation>
+			<conjugation number="plural" person="2">pudiereis</conjugation>
+			<conjugation number="plural" person="3">pudieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">puede</conjugation>
+			<conjugation number="singular" person="3">pueda</conjugation>
+			<conjugation number="plural" person="3">puedan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">puedas</conjugation>
+			<conjugation number="singular" person="3">pueda</conjugation>
+			<conjugation number="plural" person="3">puedan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">podría</conjugation>
+			<conjugation number="singular" person="2">podrías</conjugation>
+			<conjugation number="singular" person="3">podría</conjugation>
+			<conjugation number="plural" person="1">podríamos</conjugation>
+			<conjugation number="plural" person="2">podríais</conjugation>
+			<conjugation number="plural" person="3">podrían</conjugation>
+		</tense>
+	</mood>
+</verb>

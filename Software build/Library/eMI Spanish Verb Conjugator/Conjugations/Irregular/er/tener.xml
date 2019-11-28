@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">tener</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">tengo</conjugation>
+			<conjugation number="singular" person="2">tienes</conjugation>
+			<conjugation number="singular" person="3">tiene</conjugation>
+			<conjugation number="plural" person="3">tienen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">tuve</conjugation>
+			<conjugation number="singular" person="2">tuviste</conjugation>
+			<conjugation number="singular" person="3">tuvo</conjugation>
+			<conjugation number="plural" person="1">tuvimos</conjugation>
+			<conjugation number="plural" person="2">tuvisteis</conjugation>
+			<conjugation number="plural" person="3">tuvieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">tendré</conjugation>
+			<conjugation number="singular" person="2">tendrás</conjugation>
+			<conjugation number="singular" person="3">tendrá</conjugation>
+			<conjugation number="plural" person="1">tendremos</conjugation>
+			<conjugation number="plural" person="2">tendréis</conjugation>
+			<conjugation number="plural" person="3">tendrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">tenga</conjugation>
+			<conjugation number="singular" person="2">tengas</conjugation>
+			<conjugation number="singular" person="3">tenga</conjugation>
+			<conjugation number="plural" person="1">tengamos</conjugation>
+			<conjugation number="plural" person="2">tengáis</conjugation>
+			<conjugation number="plural" person="3">tengan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">tuviera</conjugation>
+			<conjugation number="singular" person="2">tuvieras</conjugation>
+			<conjugation number="singular" person="3">tuviera</conjugation>
+			<conjugation number="plural" person="1">tuviéramos</conjugation>
+			<conjugation number="plural" person="2">tuvierais</conjugation>
+			<conjugation number="plural" person="3">tuvieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">tuviese</conjugation>
+			<conjugation number="singular" person="2">tuvieses</conjugation>
+			<conjugation number="singular" person="3">tuviese</conjugation>
+			<conjugation number="plural" person="1">tuviésemos</conjugation>
+			<conjugation number="plural" person="2">tuvieseis</conjugation>
+			<conjugation number="plural" person="3">tuviesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">tuviere</conjugation>
+			<conjugation number="singular" person="2">tuvieres</conjugation>
+			<conjugation number="singular" person="3">tuviere</conjugation>
+			<conjugation number="plural" person="1">tuviéremos</conjugation>
+			<conjugation number="plural" person="2">tuviereis</conjugation>
+			<conjugation number="plural" person="3">tuvieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">ten</conjugation>
+			<conjugation number="singular" person="3">tenga</conjugation>
+			<conjugation number="plural" person="1">tengamos</conjugation>
+			<conjugation number="plural" person="3">tengan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">tengas</conjugation>
+			<conjugation number="singular" person="3">tenga</conjugation>
+			<conjugation number="plural" person="1">tengamos</conjugation>
+			<conjugation number="plural" person="2">tengáis</conjugation>
+			<conjugation number="plural" person="3">tengan</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">tendría</conjugation>
+			<conjugation number="singular" person="2">tendrías</conjugation>
+			<conjugation number="singular" person="3">tendría</conjugation>
+			<conjugation number="plural" person="1">tendríamos</conjugation>
+			<conjugation number="plural" person="2">tendríais</conjugation>
+			<conjugation number="plural" person="3">tendrían</conjugation>
+		</tense>
+	</mood>
+</verb>

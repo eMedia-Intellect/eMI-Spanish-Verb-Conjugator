@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">querer</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">quiero</conjugation>
+			<conjugation number="singular" person="2">quieres</conjugation>
+			<conjugation number="singular" person="3">quiere</conjugation>
+			<conjugation number="plural" person="3">quieren</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">quise</conjugation>
+			<conjugation number="singular" person="2">quisiste</conjugation>
+			<conjugation number="singular" person="3">quiso</conjugation>
+			<conjugation number="plural" person="1">quisimos</conjugation>
+			<conjugation number="plural" person="2">quisisteis</conjugation>
+			<conjugation number="plural" person="3">quisieron</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">querré</conjugation>
+			<conjugation number="singular" person="2">querrás</conjugation>
+			<conjugation number="singular" person="3">querrá</conjugation>
+			<conjugation number="plural" person="1">querremos</conjugation>
+			<conjugation number="plural" person="2">querréis</conjugation>
+			<conjugation number="plural" person="3">querrán</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">quiera</conjugation>
+			<conjugation number="singular" person="2">quieras</conjugation>
+			<conjugation number="singular" person="3">quiera</conjugation>
+			<conjugation number="plural" person="3">quieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">quisiera</conjugation>
+			<conjugation number="singular" person="2">quisieras</conjugation>
+			<conjugation number="singular" person="3">quisiera</conjugation>
+			<conjugation number="plural" person="1">quisiéramos</conjugation>
+			<conjugation number="plural" person="2">quisierais</conjugation>
+			<conjugation number="plural" person="3">quisieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">quisiese</conjugation>
+			<conjugation number="singular" person="2">quisieses</conjugation>
+			<conjugation number="singular" person="3">quisiese</conjugation>
+			<conjugation number="plural" person="1">quisiésemos</conjugation>
+			<conjugation number="plural" person="2">quisieseis</conjugation>
+			<conjugation number="plural" person="3">quisiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">quisiere</conjugation>
+			<conjugation number="singular" person="2">quisieres</conjugation>
+			<conjugation number="singular" person="3">quisiere</conjugation>
+			<conjugation number="plural" person="1">quisiéremos</conjugation>
+			<conjugation number="plural" person="2">quisiereis</conjugation>
+			<conjugation number="plural" person="3">quisieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">quiere</conjugation>
+			<conjugation number="singular" person="3">quiera</conjugation>
+			<conjugation number="plural" person="3">quieran</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">quieras</conjugation>
+			<conjugation number="singular" person="3">quiera</conjugation>
+			<conjugation number="plural" person="3">quieran</conjugation>
+		</tense>
+	</mood>
+	<mood type="conditional">
+		<tense>
+			<conjugation number="singular" person="1">querría</conjugation>
+			<conjugation number="singular" person="2">querrías</conjugation>
+			<conjugation number="singular" person="3">querría</conjugation>
+			<conjugation number="plural" person="1">querríamos</conjugation>
+			<conjugation number="plural" person="2">querríais</conjugation>
+			<conjugation number="plural" person="3">querrían</conjugation>
+		</tense>
+	</mood>
+</verb>

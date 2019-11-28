@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">ser</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">soy</conjugation>
+			<conjugation number="singular" person="2">eres</conjugation>
+			<conjugation number="singular" person="3">es</conjugation>
+			<conjugation number="plural" person="1">somos</conjugation>
+			<conjugation number="plural" person="2">sois</conjugation>
+			<conjugation number="plural" person="3">son</conjugation>
+		</tense>
+		<tense type="imperfect">
+			<conjugation number="singular" person="1">era</conjugation>
+			<conjugation number="singular" person="2">eras</conjugation>
+			<conjugation number="singular" person="3">era</conjugation>
+			<conjugation number="plural" person="1">éramos</conjugation>
+			<conjugation number="plural" person="2">erais</conjugation>
+			<conjugation number="plural" person="3">eran</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="1">fui</conjugation>
+			<conjugation number="singular" person="2">fuiste</conjugation>
+			<conjugation number="singular" person="3">fue</conjugation>
+			<conjugation number="plural" person="1">fuimos</conjugation>
+			<conjugation number="plural" person="2">fuisteis</conjugation>
+			<conjugation number="plural" person="3">fueron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">sea</conjugation>
+			<conjugation number="singular" person="2">seas</conjugation>
+			<conjugation number="singular" person="3">sea</conjugation>
+			<conjugation number="plural" person="1">seamos</conjugation>
+			<conjugation number="plural" person="2">seáis</conjugation>
+			<conjugation number="plural" person="3">sean</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">fuera</conjugation>
+			<conjugation number="singular" person="2">fueras</conjugation>
+			<conjugation number="singular" person="3">fuera</conjugation>
+			<conjugation number="plural" person="1">fuéramos</conjugation>
+			<conjugation number="plural" person="2">fuerais</conjugation>
+			<conjugation number="plural" person="3">fueran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">fuese</conjugation>
+			<conjugation number="singular" person="2">fueses</conjugation>
+			<conjugation number="singular" person="3">fuese</conjugation>
+			<conjugation number="plural" person="1">fuésemos</conjugation>
+			<conjugation number="plural" person="2">fueseis</conjugation>
+			<conjugation number="plural" person="3">fuesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">fuere</conjugation>
+			<conjugation number="singular" person="2">fueres</conjugation>
+			<conjugation number="singular" person="3">fuere</conjugation>
+			<conjugation number="plural" person="1">fuéremos</conjugation>
+			<conjugation number="plural" person="2">fuereis</conjugation>
+			<conjugation number="plural" person="3">fueren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">sé</conjugation>
+			<conjugation number="singular" person="3">sea</conjugation>
+			<conjugation number="plural" person="1">seamos</conjugation>
+			<conjugation number="plural" person="3">sean</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">seas</conjugation>
+			<conjugation number="singular" person="3">sea</conjugation>
+			<conjugation number="plural" person="1">seamos</conjugation>
+			<conjugation number="plural" person="2">seáis</conjugation>
+			<conjugation number="plural" person="3">sean</conjugation>
+		</tense>
+	</mood>
+</verb>

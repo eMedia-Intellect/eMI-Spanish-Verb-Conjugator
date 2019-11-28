@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">teñir</form>
+	<form type="gerund">tiñendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">tiño</conjugation>
+			<conjugation number="singular" person="2">tiñes</conjugation>
+			<conjugation number="singular" person="3">tiñe</conjugation>
+			<conjugation number="plural" person="3">tiñen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">tiñó</conjugation>
+			<conjugation number="plural" person="3">tiñeron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">tiña</conjugation>
+			<conjugation number="singular" person="2">tiñas</conjugation>
+			<conjugation number="singular" person="3">tiña</conjugation>
+			<conjugation number="plural" person="1">tiñamos</conjugation>
+			<conjugation number="plural" person="2">tiñáis</conjugation>
+			<conjugation number="plural" person="3">tiñan</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">tiñera</conjugation>
+			<conjugation number="singular" person="2">tiñeras</conjugation>
+			<conjugation number="singular" person="3">tiñera</conjugation>
+			<conjugation number="plural" person="1">tiñéramos</conjugation>
+			<conjugation number="plural" person="2">tiñerais</conjugation>
+			<conjugation number="plural" person="3">tiñeran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">tiñese</conjugation>
+			<conjugation number="singular" person="2">tiñeses</conjugation>
+			<conjugation number="singular" person="3">tiñese</conjugation>
+			<conjugation number="plural" person="1">tiñésemos</conjugation>
+			<conjugation number="plural" person="2">tiñeseis</conjugation>
+			<conjugation number="plural" person="3">tiñesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">tiñere</conjugation>
+			<conjugation number="singular" person="2">tiñeres</conjugation>
+			<conjugation number="singular" person="3">tiñere</conjugation>
+			<conjugation number="plural" person="1">tiñéremos</conjugation>
+			<conjugation number="plural" person="2">tiñereis</conjugation>
+			<conjugation number="plural" person="3">tiñeren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">tiñe</conjugation>
+			<conjugation number="singular" person="3">tiña</conjugation>
+			<conjugation number="plural" person="1">tiñamos</conjugation>
+			<conjugation number="plural" person="3">tiñan</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">tiñas</conjugation>
+			<conjugation number="singular" person="3">tiña</conjugation>
+			<conjugation number="plural" person="1">tiñamos</conjugation>
+			<conjugation number="plural" person="2">tiñáis</conjugation>
+			<conjugation number="plural" person="3">tiñan</conjugation>
+		</tense>
+	</mood>
+</verb>

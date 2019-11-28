@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright © 2019 eMedia Intellect.
+
+This file is part of eMI Spanish Verb Conjugator.
+
+eMI Spanish Verb Conjugator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+eMI Spanish Verb Conjugator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with eMI Spanish Verb Conjugator. If not, see http://www.gnu.org/licenses/.
+-->
+<verb xmlns="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://emi.is/eMI-Spanish-Verb-Conjugator/Conjugations ../../Conjugations.xsd">
+	<form type="infinitive">dormir</form>
+	<form type="gerund">durmiendo</form>
+	<mood type="indicative">
+		<tense type="present">
+			<conjugation number="singular" person="1">duermo</conjugation>
+			<conjugation number="singular" person="2">duermes</conjugation>
+			<conjugation number="singular" person="3">duerme</conjugation>
+			<conjugation number="plural" person="3">duermen</conjugation>
+		</tense>
+		<tense type="preterite">
+			<conjugation number="singular" person="3">durmió</conjugation>
+			<conjugation number="plural" person="3">durmieron</conjugation>
+		</tense>
+	</mood>
+	<mood type="subjunctive">
+		<tense type="present">
+			<conjugation number="singular" person="1">duerma</conjugation>
+			<conjugation number="singular" person="2">duermas</conjugation>
+			<conjugation number="singular" person="3">duerma</conjugation>
+			<conjugation number="plural" person="1">durmamos</conjugation>
+			<conjugation number="plural" person="2">durmáis</conjugation>
+			<conjugation number="plural" person="3">duerman</conjugation>
+		</tense>
+		<tense type="imperfect" variant="ra">
+			<conjugation number="singular" person="1">durmiera</conjugation>
+			<conjugation number="singular" person="2">durmieras</conjugation>
+			<conjugation number="singular" person="3">durmiera</conjugation>
+			<conjugation number="plural" person="1">durmiéramos</conjugation>
+			<conjugation number="plural" person="2">durmierais</conjugation>
+			<conjugation number="plural" person="3">durmieran</conjugation>
+		</tense>
+		<tense type="imperfect" variant="se">
+			<conjugation number="singular" person="1">durmiese</conjugation>
+			<conjugation number="singular" person="2">durmieses</conjugation>
+			<conjugation number="singular" person="3">durmiese</conjugation>
+			<conjugation number="plural" person="1">durmiésemos</conjugation>
+			<conjugation number="plural" person="2">durmieseis</conjugation>
+			<conjugation number="plural" person="3">durmiesen</conjugation>
+		</tense>
+		<tense type="future">
+			<conjugation number="singular" person="1">durmiere</conjugation>
+			<conjugation number="singular" person="2">durmieres</conjugation>
+			<conjugation number="singular" person="3">durmiere</conjugation>
+			<conjugation number="plural" person="1">durmiéremos</conjugation>
+			<conjugation number="plural" person="2">durmiereis</conjugation>
+			<conjugation number="plural" person="3">durmieren</conjugation>
+		</tense>
+	</mood>
+	<mood type="imperative">
+		<tense variant="affirmative">
+			<conjugation number="singular" person="2">duerme</conjugation>
+			<conjugation number="singular" person="3">duerma</conjugation>
+			<conjugation number="plural" person="1">durmamos</conjugation>
+			<conjugation number="plural" person="3">duerman</conjugation>
+		</tense>
+		<tense variant="negative">
+			<conjugation number="singular" person="2">duermas</conjugation>
+			<conjugation number="singular" person="3">duerma</conjugation>
+			<conjugation number="plural" person="1">durmamos</conjugation>
+			<conjugation number="plural" person="2">durmáis</conjugation>
+			<conjugation number="plural" person="3">duerman</conjugation>
+		</tense>
+	</mood>
+</verb>
